@@ -1,0 +1,1420 @@
+2025-06-17 21:56:40,133 - CLI - INFO - Starting DSA scraper
+2025-06-17 21:56:40,133 - CLI - INFO - Starting DSA scraper
+2025-06-17 21:56:40,134 - root - INFO - Starting DSA scraper
+2025-06-17 21:56:40,134 - root - INFO - Scraping data for topic: array
+2025-06-17 21:56:40,136 - GFGScraper - INFO - Scraping GFG for topic: array
+2025-06-17 21:56:40,157 - W3SchoolsScraper - INFO - Scraping W3Schools for topic: array
+2025-06-17 21:56:40,157 - LeetCodeScraper - INFO - Scraping LeetCode for topic: array
+2025-06-17 21:56:40,158 - NPTELScraper - INFO - Scraping NPTEL for topic: array
+2025-06-17 21:56:40,158 - YouTubeScraper - INFO - Searching YouTube for: array
+2025-06-17 21:56:40,837 - GFGScraper - WARNING - No search results found for array on GFG
+2025-06-17 21:56:40,905 - W3SchoolsScraper - WARNING - No search results found for array on W3Schools
+2025-06-17 21:56:47,942 - root - INFO - Scraping data for subtopic: array initialization (under array)
+2025-06-17 21:56:47,943 - GFGScraper - INFO - Scraping GFG for subtopic: array initialization under array
+2025-06-17 21:56:47,945 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: array initialization under array
+2025-06-17 21:56:47,947 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: array initialization under array
+2025-06-17 21:56:47,947 - NPTELScraper - INFO - Scraping NPTEL for subtopic: array initialization under array
+2025-06-17 21:56:47,947 - YouTubeScraper - INFO - Searching YouTube for: array array initialization
+2025-06-17 21:56:48,824 - GFGScraper - WARNING - No search results found for array initialization on GFG
+2025-06-17 21:56:49,316 - W3SchoolsScraper - WARNING - No search results found for array initialization on W3Schools
+2025-06-17 21:56:54,946 - root - INFO - Scraping data for subtopic: array operations (under array)
+2025-06-17 21:56:54,946 - GFGScraper - INFO - Scraping GFG for subtopic: array operations under array
+2025-06-17 21:56:54,947 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: array operations under array
+2025-06-17 21:56:54,948 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: array operations under array
+2025-06-17 21:56:54,948 - NPTELScraper - INFO - Scraping NPTEL for subtopic: array operations under array
+2025-06-17 21:56:54,948 - YouTubeScraper - INFO - Searching YouTube for: array array operations
+2025-06-17 21:56:55,550 - W3SchoolsScraper - WARNING - No search results found for array operations on W3Schools
+2025-06-17 21:56:55,844 - GFGScraper - WARNING - No search results found for array operations on GFG
+2025-06-17 21:56:59,255 - root - INFO - Scraping data for subtopic: dynamic array (under array)
+2025-06-17 21:56:59,255 - GFGScraper - INFO - Scraping GFG for subtopic: dynamic array under array
+2025-06-17 21:56:59,256 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: dynamic array under array
+2025-06-17 21:56:59,256 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: dynamic array under array
+2025-06-17 21:56:59,257 - NPTELScraper - INFO - Scraping NPTEL for subtopic: dynamic array under array
+2025-06-17 21:56:59,257 - YouTubeScraper - INFO - Searching YouTube for: array dynamic array
+2025-06-17 21:56:59,921 - GFGScraper - WARNING - No search results found for dynamic array on GFG
+2025-06-17 21:57:00,214 - W3SchoolsScraper - WARNING - No search results found for dynamic array on W3Schools
+2025-06-17 21:57:06,624 - root - INFO - Scraping data for subtopic: array manipulation (under array)
+2025-06-17 21:57:06,625 - GFGScraper - INFO - Scraping GFG for subtopic: array manipulation under array
+2025-06-17 21:57:06,625 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: array manipulation under array
+2025-06-17 21:57:06,626 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: array manipulation under array
+2025-06-17 21:57:06,626 - NPTELScraper - INFO - Scraping NPTEL for subtopic: array manipulation under array
+2025-06-17 21:57:06,626 - YouTubeScraper - INFO - Searching YouTube for: array array manipulation
+2025-06-17 21:57:07,707 - GFGScraper - WARNING - No search results found for array manipulation on GFG
+2025-06-17 21:57:07,843 - W3SchoolsScraper - WARNING - No search results found for array manipulation on W3Schools
+2025-06-17 21:57:11,311 - root - INFO - Scraping data for subtopic: array searching (under array)
+2025-06-17 21:57:11,312 - GFGScraper - INFO - Scraping GFG for subtopic: array searching under array
+2025-06-17 21:57:11,313 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: array searching under array
+2025-06-17 21:57:11,313 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: array searching under array
+2025-06-17 21:57:11,314 - NPTELScraper - INFO - Scraping NPTEL for subtopic: array searching under array
+2025-06-17 21:57:11,314 - YouTubeScraper - INFO - Searching YouTube for: array array searching
+2025-06-17 21:57:11,651 - GFGScraper - WARNING - No search results found for array searching on GFG
+2025-06-17 21:57:11,800 - W3SchoolsScraper - WARNING - No search results found for array searching on W3Schools
+2025-06-17 21:57:15,522 - root - INFO - Scraping data for subtopic: array sorting (under array)
+2025-06-17 21:57:15,522 - GFGScraper - INFO - Scraping GFG for subtopic: array sorting under array
+2025-06-17 21:57:15,523 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: array sorting under array
+2025-06-17 21:57:15,523 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: array sorting under array
+2025-06-17 21:57:15,523 - NPTELScraper - INFO - Scraping NPTEL for subtopic: array sorting under array
+2025-06-17 21:57:15,524 - YouTubeScraper - INFO - Searching YouTube for: array array sorting
+2025-06-17 21:57:15,894 - GFGScraper - WARNING - No search results found for array sorting on GFG
+2025-06-17 21:57:16,151 - W3SchoolsScraper - WARNING - No search results found for array sorting on W3Schools
+2025-06-17 21:57:20,256 - root - INFO - Scraping data for subtopic: multidimensional arrays (under array)
+2025-06-17 21:57:20,257 - GFGScraper - INFO - Scraping GFG for subtopic: multidimensional arrays under array
+2025-06-17 21:57:20,257 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: multidimensional arrays under array
+2025-06-17 21:57:20,258 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: multidimensional arrays under array
+2025-06-17 21:57:20,258 - NPTELScraper - INFO - Scraping NPTEL for subtopic: multidimensional arrays under array
+2025-06-17 21:57:20,258 - YouTubeScraper - INFO - Searching YouTube for: array multidimensional arrays
+2025-06-17 21:57:20,910 - GFGScraper - WARNING - No search results found for multidimensional arrays on GFG
+2025-06-17 21:57:21,033 - W3SchoolsScraper - WARNING - No search results found for multidimensional arrays on W3Schools
+2025-06-17 21:57:25,632 - root - INFO - Scraping data for subtopic: array rotation (under array)
+2025-06-17 21:57:25,633 - GFGScraper - INFO - Scraping GFG for subtopic: array rotation under array
+2025-06-17 21:57:25,634 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: array rotation under array
+2025-06-17 21:57:25,634 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: array rotation under array
+2025-06-17 21:57:25,635 - NPTELScraper - INFO - Scraping NPTEL for subtopic: array rotation under array
+2025-06-17 21:57:25,635 - YouTubeScraper - INFO - Searching YouTube for: array array rotation
+2025-06-17 21:57:25,985 - GFGScraper - WARNING - No search results found for array rotation on GFG
+2025-06-17 21:57:26,122 - W3SchoolsScraper - WARNING - No search results found for array rotation on W3Schools
+2025-06-17 21:57:30,753 - root - INFO - Scraping data for subtopic: array traversal (under array)
+2025-06-17 21:57:30,754 - GFGScraper - INFO - Scraping GFG for subtopic: array traversal under array
+2025-06-17 21:57:30,754 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: array traversal under array
+2025-06-17 21:57:30,755 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: array traversal under array
+2025-06-17 21:57:30,755 - NPTELScraper - INFO - Scraping NPTEL for subtopic: array traversal under array
+2025-06-17 21:57:30,756 - YouTubeScraper - INFO - Searching YouTube for: array array traversal
+2025-06-17 21:57:31,339 - GFGScraper - WARNING - No search results found for array traversal on GFG
+2025-06-17 21:57:31,628 - W3SchoolsScraper - WARNING - No search results found for array traversal on W3Schools
+2025-06-17 21:57:35,398 - root - INFO - Scraping data for subtopic: array algorithms (under array)
+2025-06-17 21:57:35,398 - GFGScraper - INFO - Scraping GFG for subtopic: array algorithms under array
+2025-06-17 21:57:35,399 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: array algorithms under array
+2025-06-17 21:57:35,401 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: array algorithms under array
+2025-06-17 21:57:35,402 - NPTELScraper - INFO - Scraping NPTEL for subtopic: array algorithms under array
+2025-06-17 21:57:35,402 - YouTubeScraper - INFO - Searching YouTube for: array array algorithms
+2025-06-17 21:57:36,018 - W3SchoolsScraper - WARNING - No search results found for array algorithms on W3Schools
+2025-06-17 21:57:36,096 - GFGScraper - WARNING - No search results found for array algorithms on GFG
+2025-06-17 21:57:40,203 - root - INFO - Scraping data for topic: string
+2025-06-17 21:57:40,204 - GFGScraper - INFO - Scraping GFG for topic: string
+2025-06-17 21:57:40,204 - W3SchoolsScraper - INFO - Scraping W3Schools for topic: string
+2025-06-17 21:57:40,205 - LeetCodeScraper - INFO - Scraping LeetCode for topic: string
+2025-06-17 21:57:40,205 - NPTELScraper - INFO - Scraping NPTEL for topic: string
+2025-06-17 21:57:40,205 - YouTubeScraper - INFO - Searching YouTube for: string
+2025-06-17 21:57:40,901 - GFGScraper - WARNING - No search results found for string on GFG
+2025-06-17 21:57:40,919 - W3SchoolsScraper - WARNING - No search results found for string on W3Schools
+2025-06-17 21:57:47,852 - root - INFO - Scraping data for topic: linked list
+2025-06-17 21:57:47,853 - GFGScraper - INFO - Scraping GFG for topic: linked list
+2025-06-17 21:57:47,854 - W3SchoolsScraper - INFO - Scraping W3Schools for topic: linked list
+2025-06-17 21:57:47,854 - LeetCodeScraper - INFO - Scraping LeetCode for topic: linked list
+2025-06-17 21:57:47,855 - NPTELScraper - INFO - Scraping NPTEL for topic: linked list
+2025-06-17 21:57:47,855 - YouTubeScraper - INFO - Searching YouTube for: linked list
+2025-06-17 21:57:48,834 - GFGScraper - WARNING - No search results found for linked list on GFG
+2025-06-17 21:57:49,080 - W3SchoolsScraper - WARNING - No search results found for linked list on W3Schools
+2025-06-17 21:57:56,746 - root - INFO - Scraping data for subtopic: singly linked list (under linked list)
+2025-06-17 21:57:56,747 - GFGScraper - INFO - Scraping GFG for subtopic: singly linked list under linked list
+2025-06-17 21:57:56,747 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: singly linked list under linked list
+2025-06-17 21:57:56,748 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: singly linked list under linked list
+2025-06-17 21:57:56,748 - NPTELScraper - INFO - Scraping NPTEL for subtopic: singly linked list under linked list
+2025-06-17 21:57:56,748 - YouTubeScraper - INFO - Searching YouTube for: linked list singly linked list
+2025-06-17 21:57:57,684 - GFGScraper - WARNING - No search results found for singly linked list on GFG
+2025-06-17 21:57:58,047 - W3SchoolsScraper - WARNING - No search results found for singly linked list on W3Schools
+2025-06-17 21:58:03,119 - root - INFO - Scraping data for subtopic: doubly linked list (under linked list)
+2025-06-17 21:58:03,120 - GFGScraper - INFO - Scraping GFG for subtopic: doubly linked list under linked list
+2025-06-17 21:58:03,120 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: doubly linked list under linked list
+2025-06-17 21:58:03,121 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: doubly linked list under linked list
+2025-06-17 21:58:03,121 - NPTELScraper - INFO - Scraping NPTEL for subtopic: doubly linked list under linked list
+2025-06-17 21:58:03,121 - YouTubeScraper - INFO - Searching YouTube for: linked list doubly linked list
+2025-06-17 21:58:03,527 - GFGScraper - WARNING - No search results found for doubly linked list on GFG
+2025-06-17 21:58:03,962 - W3SchoolsScraper - WARNING - No search results found for doubly linked list on W3Schools
+2025-06-17 21:58:07,781 - root - INFO - Scraping data for subtopic: circular linked list (under linked list)
+2025-06-17 21:58:07,782 - GFGScraper - INFO - Scraping GFG for subtopic: circular linked list under linked list
+2025-06-17 21:58:07,782 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: circular linked list under linked list
+2025-06-17 21:58:07,783 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: circular linked list under linked list
+2025-06-17 21:58:07,783 - NPTELScraper - INFO - Scraping NPTEL for subtopic: circular linked list under linked list
+2025-06-17 21:58:07,784 - YouTubeScraper - INFO - Searching YouTube for: linked list circular linked list
+2025-06-17 21:58:08,375 - GFGScraper - WARNING - No search results found for circular linked list on GFG
+2025-06-17 21:58:08,392 - W3SchoolsScraper - WARNING - No search results found for circular linked list on W3Schools
+2025-06-17 21:58:14,056 - root - INFO - Scraping data for subtopic: linked list operations (under linked list)
+2025-06-17 21:58:14,056 - GFGScraper - INFO - Scraping GFG for subtopic: linked list operations under linked list
+2025-06-17 21:58:14,056 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: linked list operations under linked list
+2025-06-17 21:58:14,057 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: linked list operations under linked list
+2025-06-17 21:58:14,057 - NPTELScraper - INFO - Scraping NPTEL for subtopic: linked list operations under linked list
+2025-06-17 21:58:14,057 - YouTubeScraper - INFO - Searching YouTube for: linked list linked list operations
+2025-06-17 21:58:14,699 - GFGScraper - WARNING - No search results found for linked list operations on GFG
+2025-06-17 21:58:15,009 - W3SchoolsScraper - WARNING - No search results found for linked list operations on W3Schools
+2025-06-17 21:58:18,554 - root - INFO - Scraping data for subtopic: linked list traversal (under linked list)
+2025-06-17 21:58:18,554 - GFGScraper - INFO - Scraping GFG for subtopic: linked list traversal under linked list
+2025-06-17 21:58:18,555 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: linked list traversal under linked list
+2025-06-17 21:58:18,556 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: linked list traversal under linked list
+2025-06-17 21:58:18,556 - NPTELScraper - INFO - Scraping NPTEL for subtopic: linked list traversal under linked list
+2025-06-17 21:58:18,556 - YouTubeScraper - INFO - Searching YouTube for: linked list linked list traversal
+2025-06-17 21:58:18,939 - GFGScraper - WARNING - No search results found for linked list traversal on GFG
+2025-06-17 21:58:19,129 - W3SchoolsScraper - WARNING - No search results found for linked list traversal on W3Schools
+2025-06-17 21:58:22,742 - root - INFO - Scraping data for subtopic: linked list reversal (under linked list)
+2025-06-17 21:58:22,742 - GFGScraper - INFO - Scraping GFG for subtopic: linked list reversal under linked list
+2025-06-17 21:58:22,743 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: linked list reversal under linked list
+2025-06-17 21:58:22,743 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: linked list reversal under linked list
+2025-06-17 21:58:22,743 - NPTELScraper - INFO - Scraping NPTEL for subtopic: linked list reversal under linked list
+2025-06-17 21:58:22,744 - YouTubeScraper - INFO - Searching YouTube for: linked list linked list reversal
+2025-06-17 21:58:23,267 - GFGScraper - WARNING - No search results found for linked list reversal on GFG
+2025-06-17 21:58:23,474 - W3SchoolsScraper - WARNING - No search results found for linked list reversal on W3Schools
+2025-06-17 21:58:28,374 - root - INFO - Scraping data for subtopic: linked list insertion (under linked list)
+2025-06-17 21:58:28,375 - GFGScraper - INFO - Scraping GFG for subtopic: linked list insertion under linked list
+2025-06-17 21:58:28,376 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: linked list insertion under linked list
+2025-06-17 21:58:28,376 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: linked list insertion under linked list
+2025-06-17 21:58:28,377 - NPTELScraper - INFO - Scraping NPTEL for subtopic: linked list insertion under linked list
+2025-06-17 21:58:28,377 - YouTubeScraper - INFO - Searching YouTube for: linked list linked list insertion
+2025-06-17 21:58:28,767 - GFGScraper - WARNING - No search results found for linked list insertion on GFG
+2025-06-17 21:58:28,970 - W3SchoolsScraper - WARNING - No search results found for linked list insertion on W3Schools
+2025-06-17 21:58:35,461 - root - INFO - Scraping data for subtopic: linked list deletion (under linked list)
+2025-06-17 21:58:35,462 - GFGScraper - INFO - Scraping GFG for subtopic: linked list deletion under linked list
+2025-06-17 21:58:35,463 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: linked list deletion under linked list
+2025-06-17 21:58:35,464 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: linked list deletion under linked list
+2025-06-17 21:58:35,465 - NPTELScraper - INFO - Scraping NPTEL for subtopic: linked list deletion under linked list
+2025-06-17 21:58:35,465 - YouTubeScraper - INFO - Searching YouTube for: linked list linked list deletion
+2025-06-17 21:58:36,003 - GFGScraper - WARNING - No search results found for linked list deletion on GFG
+2025-06-17 21:58:36,313 - W3SchoolsScraper - WARNING - No search results found for linked list deletion on W3Schools
+2025-06-17 21:58:40,647 - root - INFO - Scraping data for subtopic: linked list algorithms (under linked list)
+2025-06-17 21:58:40,648 - GFGScraper - INFO - Scraping GFG for subtopic: linked list algorithms under linked list
+2025-06-17 21:58:40,649 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: linked list algorithms under linked list
+2025-06-17 21:58:40,649 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: linked list algorithms under linked list
+2025-06-17 21:58:40,650 - NPTELScraper - INFO - Scraping NPTEL for subtopic: linked list algorithms under linked list
+2025-06-17 21:58:40,650 - YouTubeScraper - INFO - Searching YouTube for: linked list linked list algorithms
+2025-06-17 21:58:41,427 - GFGScraper - WARNING - No search results found for linked list algorithms on GFG
+2025-06-17 21:58:41,992 - W3SchoolsScraper - WARNING - No search results found for linked list algorithms on W3Schools
+2025-06-17 21:58:46,214 - root - INFO - Scraping data for topic: stack
+2025-06-17 21:58:46,215 - GFGScraper - INFO - Scraping GFG for topic: stack
+2025-06-17 21:58:46,215 - W3SchoolsScraper - INFO - Scraping W3Schools for topic: stack
+2025-06-17 21:58:46,216 - LeetCodeScraper - INFO - Scraping LeetCode for topic: stack
+2025-06-17 21:58:46,216 - NPTELScraper - INFO - Scraping NPTEL for topic: stack
+2025-06-17 21:58:46,216 - YouTubeScraper - INFO - Searching YouTube for: stack
+2025-06-17 21:58:46,818 - GFGScraper - WARNING - No search results found for stack on GFG
+2025-06-17 21:58:46,878 - W3SchoolsScraper - WARNING - No search results found for stack on W3Schools
+2025-06-17 21:58:54,312 - root - INFO - Scraping data for subtopic: stack operations (under stack)
+2025-06-17 21:58:54,313 - GFGScraper - INFO - Scraping GFG for subtopic: stack operations under stack
+2025-06-17 21:58:54,313 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: stack operations under stack
+2025-06-17 21:58:54,314 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: stack operations under stack
+2025-06-17 21:58:54,314 - NPTELScraper - INFO - Scraping NPTEL for subtopic: stack operations under stack
+2025-06-17 21:58:54,314 - YouTubeScraper - INFO - Searching YouTube for: stack stack operations
+2025-06-17 21:58:55,345 - GFGScraper - WARNING - No search results found for stack operations on GFG
+2025-06-17 21:58:56,174 - W3SchoolsScraper - WARNING - No search results found for stack operations on W3Schools
+2025-06-17 21:59:01,778 - root - INFO - Scraping data for subtopic: stack implementation (under stack)
+2025-06-17 21:59:01,779 - GFGScraper - INFO - Scraping GFG for subtopic: stack implementation under stack
+2025-06-17 21:59:01,779 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: stack implementation under stack
+2025-06-17 21:59:01,780 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: stack implementation under stack
+2025-06-17 21:59:01,780 - NPTELScraper - INFO - Scraping NPTEL for subtopic: stack implementation under stack
+2025-06-17 21:59:01,780 - YouTubeScraper - INFO - Searching YouTube for: stack stack implementation
+2025-06-17 21:59:02,462 - GFGScraper - WARNING - No search results found for stack implementation on GFG
+2025-06-17 21:59:03,061 - W3SchoolsScraper - WARNING - No search results found for stack implementation on W3Schools
+2025-06-17 22:06:59,856 - CLI - INFO - Starting DSA scraper
+2025-06-17 22:06:59,856 - CLI - INFO - Starting DSA scraper
+2025-06-17 22:06:59,860 - root - INFO - Starting DSA scraper
+2025-06-17 22:06:59,860 - root - INFO - Testing scraper: youtube
+2025-06-17 22:06:59,861 - root - INFO - Testing with topic: array
+2025-06-17 22:06:59,861 - root - INFO - Testing YouTube scraper...
+2025-06-17 22:06:59,862 - YouTubeScraper - INFO - Searching YouTube for: array data structure algorithm tutorial
+2025-06-17 22:06:59,864 - YouTubeScraper - ERROR - Error searching YouTube for array data structure algorithm tutorial: post() got an unexpected keyword argument 'proxies'
+2025-06-17 22:06:59,865 - YouTubeScraper - ERROR - post() got an unexpected keyword argument 'proxies'
+Traceback (most recent call last):
+  File "C:\Users\Ritesh Singh\OneDrive\Pictures\webs\dsa-scraper\python-scraper\scrapers\youtube_scraper.py", line 127, in search_videos
+    videos_search = VideosSearch(query, limit=max_results)
+  File "C:\Users\Ritesh Singh\AppData\Local\Programs\Python\Python310\lib\site-packages\youtubesearchpython\search.py", line 148, in __init__
+    self.sync_create()
+  File "C:\Users\Ritesh Singh\AppData\Local\Programs\Python\Python310\lib\site-packages\youtubesearchpython\core\search.py", line 29, in sync_create
+    self._makeRequest()
+  File "C:\Users\Ritesh Singh\AppData\Local\Programs\Python\Python310\lib\site-packages\youtubesearchpython\core\search.py", line 51, in _makeRequest
+    request = self.syncPostRequest()
+  File "C:\Users\Ritesh Singh\AppData\Local\Programs\Python\Python310\lib\site-packages\youtubesearchpython\core\requests.py", line 20, in syncPostRequest
+    return httpx.post(
+TypeError: post() got an unexpected keyword argument 'proxies'
+2025-06-17 22:06:59,871 - root - INFO - YouTube result: {
+  "description": "",
+  "keywords": [
+    "array",
+    "data structure",
+    "algorithm",
+    "tutorial"
+  ],
+  "subtopics": [],
+  "resources": {
+    "videos": [],
+    "articles": []
+  }
+}
+2025-06-17 22:06:59,872 - root - INFO - Scraper testing completed.
+2025-06-17 22:06:59,873 - CLI - INFO - Scraping completed in 0.01 seconds
+2025-06-17 22:06:59,873 - CLI - INFO - Scraping completed in 0.01 seconds
+2025-06-17 22:06:59,875 - CLI - INFO - DSA graph successfully saved to C:\Users\Ritesh Singh\OneDrive\Pictures\webs\dsa-scraper\python-scraper\output\dsa_graph.json
+2025-06-17 22:06:59,875 - CLI - INFO - DSA graph successfully saved to C:\Users\Ritesh Singh\OneDrive\Pictures\webs\dsa-scraper\python-scraper\output\dsa_graph.json
+2025-06-17 22:06:59,876 - CLI - ERROR - Error copying graph to frontend: [Errno 2] No such file or directory: 'C:\\Users\\Ritesh Singh\\OneDrive\\Pictures\\webs\\dsa-scraper\\python-scraper\\output\\dsa_graph.json'
+2025-06-17 22:06:59,876 - CLI - ERROR - Error copying graph to frontend: [Errno 2] No such file or directory: 'C:\\Users\\Ritesh Singh\\OneDrive\\Pictures\\webs\\dsa-scraper\\python-scraper\\output\\dsa_graph.json'
+2025-06-17 22:12:15,329 - CLI - INFO - Starting DSA scraper
+2025-06-17 22:12:15,329 - CLI - INFO - Starting DSA scraper
+2025-06-17 22:12:15,330 - root - INFO - Starting DSA scraper
+2025-06-17 22:12:15,330 - root - INFO - Testing scraper: youtube
+2025-06-17 22:12:15,330 - root - INFO - Testing with topic: array
+2025-06-17 22:12:15,331 - root - INFO - Testing YouTube scraper...
+2025-06-17 22:12:15,331 - YouTubeScraper - INFO - Searching YouTube for: array data structure algorithm tutorial
+2025-06-17 22:12:15,331 - YouTubeScraper - ERROR - Error searching YouTube for array data structure algorithm tutorial: post() got an unexpected keyword argument 'proxies'
+2025-06-17 22:12:15,331 - YouTubeScraper - ERROR - post() got an unexpected keyword argument 'proxies'
+Traceback (most recent call last):
+  File "C:\Users\Ritesh Singh\OneDrive\Pictures\webs\dsa-scraper\python-scraper\scrapers\youtube_scraper.py", line 127, in search_videos
+    videos_search = VideosSearch(query, limit=max_results)
+  File "C:\Users\Ritesh Singh\AppData\Local\Programs\Python\Python310\lib\site-packages\youtubesearchpython\search.py", line 148, in __init__
+    self.sync_create()
+  File "C:\Users\Ritesh Singh\AppData\Local\Programs\Python\Python310\lib\site-packages\youtubesearchpython\core\search.py", line 29, in sync_create
+    self._makeRequest()
+  File "C:\Users\Ritesh Singh\AppData\Local\Programs\Python\Python310\lib\site-packages\youtubesearchpython\core\search.py", line 51, in _makeRequest
+    request = self.syncPostRequest()
+  File "C:\Users\Ritesh Singh\AppData\Local\Programs\Python\Python310\lib\site-packages\youtubesearchpython\core\requests.py", line 20, in syncPostRequest
+    return httpx.post(
+TypeError: post() got an unexpected keyword argument 'proxies'
+2025-06-17 22:12:15,335 - root - INFO - YouTube result: {
+  "description": "",
+  "keywords": [
+    "array",
+    "data structure",
+    "algorithm",
+    "tutorial"
+  ],
+  "subtopics": [],
+  "resources": {
+    "videos": [],
+    "articles": []
+  }
+}
+2025-06-17 22:12:15,336 - root - INFO - Scraper testing completed.
+2025-06-17 22:12:15,336 - CLI - INFO - Scraping completed in 0.01 seconds
+2025-06-17 22:12:15,336 - CLI - INFO - Scraping completed in 0.01 seconds
+2025-06-17 22:12:15,337 - CLI - INFO - DSA graph successfully saved to C:\Users\Ritesh Singh\OneDrive\Pictures\webs\dsa-scraper\python-scraper\output\dsa_graph.json
+2025-06-17 22:12:15,337 - CLI - INFO - DSA graph successfully saved to C:\Users\Ritesh Singh\OneDrive\Pictures\webs\dsa-scraper\python-scraper\output\dsa_graph.json
+2025-06-17 22:12:15,338 - CLI - ERROR - Error copying graph to frontend: [Errno 2] No such file or directory: 'C:\\Users\\Ritesh Singh\\OneDrive\\Pictures\\webs\\dsa-scraper\\python-scraper\\output\\dsa_graph.json'
+2025-06-17 22:12:15,338 - CLI - ERROR - Error copying graph to frontend: [Errno 2] No such file or directory: 'C:\\Users\\Ritesh Singh\\OneDrive\\Pictures\\webs\\dsa-scraper\\python-scraper\\output\\dsa_graph.json'
+2025-06-17 22:13:32,331 - CLI - INFO - Starting DSA scraper
+2025-06-17 22:13:32,331 - CLI - INFO - Starting DSA scraper
+2025-06-17 22:13:32,332 - root - INFO - Starting DSA scraper
+2025-06-17 22:13:32,332 - root - INFO - Scraping data for topic: array
+2025-06-17 22:13:32,333 - GFGScraper - INFO - Scraping GFG for topic: array
+2025-06-17 22:13:32,370 - W3SchoolsScraper - INFO - Scraping W3Schools for topic: array
+2025-06-17 22:13:32,370 - LeetCodeScraper - INFO - Scraping LeetCode for topic: array
+2025-06-17 22:13:32,371 - NPTELScraper - INFO - Scraping NPTEL for topic: array
+2025-06-17 22:13:32,372 - YouTubeScraper - INFO - Searching YouTube for: array data structure algorithm tutorial
+2025-06-17 22:13:32,372 - YouTubeScraper - INFO - Found 3 videos for array data structure algorithm tutorial
+2025-06-17 22:13:33,598 - W3SchoolsScraper - WARNING - No search results found for array on W3Schools
+2025-06-17 22:13:33,743 - GFGScraper - WARNING - No search results found for array on GFG, trying direct URL approach
+2025-06-17 22:13:33,746 - GFGScraper - ERROR - Error scraping GFG for array: Session is closed
+2025-06-17 22:13:33,747 - root - INFO - Scraping data for subtopic: array initialization of array
+2025-06-17 22:13:33,748 - GFGScraper - INFO - Scraping GFG for subtopic: array initialization under array
+2025-06-17 22:13:33,748 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: array initialization under array
+2025-06-17 22:13:33,750 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: array initialization under array
+2025-06-17 22:13:33,751 - NPTELScraper - INFO - Scraping NPTEL for subtopic: array initialization under array
+2025-06-17 22:13:33,751 - YouTubeScraper - INFO - Searching YouTube for: array array initialization tutorial
+2025-06-17 22:13:33,751 - YouTubeScraper - INFO - Found 3 videos for array array initialization tutorial
+2025-06-17 22:13:34,749 - GFGScraper - WARNING - No search results found for array initialization on GFG
+2025-06-17 22:13:35,138 - W3SchoolsScraper - WARNING - No search results found for array initialization on W3Schools
+2025-06-17 22:13:35,139 - root - INFO - Scraping data for subtopic: array operations of array
+2025-06-17 22:13:35,139 - GFGScraper - INFO - Scraping GFG for subtopic: array operations under array
+2025-06-17 22:13:35,140 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: array operations under array
+2025-06-17 22:13:35,140 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: array operations under array
+2025-06-17 22:13:35,140 - NPTELScraper - INFO - Scraping NPTEL for subtopic: array operations under array
+2025-06-17 22:13:35,141 - YouTubeScraper - INFO - Searching YouTube for: array array operations tutorial
+2025-06-17 22:13:35,141 - YouTubeScraper - INFO - Found 3 videos for array array operations tutorial
+2025-06-17 22:13:35,803 - GFGScraper - WARNING - No search results found for array operations on GFG
+2025-06-17 22:13:36,318 - W3SchoolsScraper - WARNING - No search results found for array operations on W3Schools
+2025-06-17 22:13:36,318 - root - INFO - Scraping data for subtopic: dynamic array of array
+2025-06-17 22:13:36,318 - GFGScraper - INFO - Scraping GFG for subtopic: dynamic array under array
+2025-06-17 22:13:36,319 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: dynamic array under array
+2025-06-17 22:13:36,319 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: dynamic array under array
+2025-06-17 22:13:36,319 - NPTELScraper - INFO - Scraping NPTEL for subtopic: dynamic array under array
+2025-06-17 22:13:36,319 - YouTubeScraper - INFO - Searching YouTube for: array dynamic array tutorial
+2025-06-17 22:13:36,319 - YouTubeScraper - INFO - Found 3 videos for array dynamic array tutorial
+2025-06-17 22:13:36,908 - W3SchoolsScraper - WARNING - No search results found for dynamic array on W3Schools
+2025-06-17 22:13:37,150 - GFGScraper - WARNING - No search results found for dynamic array on GFG
+2025-06-17 22:13:37,150 - root - INFO - Scraping data for subtopic: array manipulation of array
+2025-06-17 22:13:37,150 - GFGScraper - INFO - Scraping GFG for subtopic: array manipulation under array
+2025-06-17 22:13:37,151 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: array manipulation under array
+2025-06-17 22:13:37,152 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: array manipulation under array
+2025-06-17 22:13:37,153 - NPTELScraper - INFO - Scraping NPTEL for subtopic: array manipulation under array
+2025-06-17 22:13:37,153 - YouTubeScraper - INFO - Searching YouTube for: array array manipulation tutorial
+2025-06-17 22:13:37,154 - YouTubeScraper - INFO - Found 3 videos for array array manipulation tutorial
+2025-06-17 22:13:37,809 - GFGScraper - WARNING - No search results found for array manipulation on GFG
+2025-06-17 22:13:38,081 - W3SchoolsScraper - WARNING - No search results found for array manipulation on W3Schools
+2025-06-17 22:13:38,082 - root - INFO - Scraping data for subtopic: array searching of array
+2025-06-17 22:13:38,082 - GFGScraper - INFO - Scraping GFG for subtopic: array searching under array
+2025-06-17 22:13:38,082 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: array searching under array
+2025-06-17 22:13:38,083 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: array searching under array
+2025-06-17 22:13:38,083 - NPTELScraper - INFO - Scraping NPTEL for subtopic: array searching under array
+2025-06-17 22:13:38,083 - YouTubeScraper - INFO - Searching YouTube for: array array searching tutorial
+2025-06-17 22:13:38,083 - YouTubeScraper - INFO - Found 3 videos for array array searching tutorial
+2025-06-17 22:13:38,461 - GFGScraper - WARNING - No search results found for array searching on GFG
+2025-06-17 22:13:38,640 - W3SchoolsScraper - WARNING - No search results found for array searching on W3Schools
+2025-06-17 22:13:38,641 - root - INFO - Scraping data for subtopic: array sorting of array
+2025-06-17 22:13:38,641 - GFGScraper - INFO - Scraping GFG for subtopic: array sorting under array
+2025-06-17 22:13:38,642 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: array sorting under array
+2025-06-17 22:13:38,643 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: array sorting under array
+2025-06-17 22:13:38,643 - NPTELScraper - INFO - Scraping NPTEL for subtopic: array sorting under array
+2025-06-17 22:13:38,643 - YouTubeScraper - INFO - Searching YouTube for: array array sorting tutorial
+2025-06-17 22:13:38,643 - YouTubeScraper - INFO - Found 3 videos for array array sorting tutorial
+2025-06-17 22:13:38,968 - GFGScraper - WARNING - No search results found for array sorting on GFG
+2025-06-17 22:13:39,251 - W3SchoolsScraper - WARNING - No search results found for array sorting on W3Schools
+2025-06-17 22:13:39,252 - root - INFO - Scraping data for subtopic: multidimensional arrays of array
+2025-06-17 22:13:39,252 - GFGScraper - INFO - Scraping GFG for subtopic: multidimensional arrays under array
+2025-06-17 22:13:39,254 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: multidimensional arrays under array
+2025-06-17 22:13:39,255 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: multidimensional arrays under array
+2025-06-17 22:13:39,255 - NPTELScraper - INFO - Scraping NPTEL for subtopic: multidimensional arrays under array
+2025-06-17 22:13:39,256 - YouTubeScraper - INFO - Searching YouTube for: array multidimensional arrays tutorial
+2025-06-17 22:13:39,256 - YouTubeScraper - INFO - Found 3 videos for array multidimensional arrays tutorial
+2025-06-17 22:13:39,561 - GFGScraper - WARNING - No search results found for multidimensional arrays on GFG
+2025-06-17 22:13:39,910 - W3SchoolsScraper - WARNING - No search results found for multidimensional arrays on W3Schools
+2025-06-17 22:13:39,910 - root - INFO - Scraping data for subtopic: array rotation of array
+2025-06-17 22:13:39,910 - GFGScraper - INFO - Scraping GFG for subtopic: array rotation under array
+2025-06-17 22:13:39,911 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: array rotation under array
+2025-06-17 22:13:39,912 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: array rotation under array
+2025-06-17 22:13:39,912 - NPTELScraper - INFO - Scraping NPTEL for subtopic: array rotation under array
+2025-06-17 22:13:39,913 - YouTubeScraper - INFO - Searching YouTube for: array array rotation tutorial
+2025-06-17 22:13:39,913 - YouTubeScraper - INFO - Found 3 videos for array array rotation tutorial
+2025-06-17 22:13:40,320 - GFGScraper - WARNING - No search results found for array rotation on GFG
+2025-06-17 22:13:40,535 - W3SchoolsScraper - WARNING - No search results found for array rotation on W3Schools
+2025-06-17 22:13:40,536 - root - INFO - Scraping data for subtopic: array traversal of array
+2025-06-17 22:13:40,536 - GFGScraper - INFO - Scraping GFG for subtopic: array traversal under array
+2025-06-17 22:13:40,537 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: array traversal under array
+2025-06-17 22:13:40,537 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: array traversal under array
+2025-06-17 22:13:40,538 - NPTELScraper - INFO - Scraping NPTEL for subtopic: array traversal under array
+2025-06-17 22:13:40,538 - YouTubeScraper - INFO - Searching YouTube for: array array traversal tutorial
+2025-06-17 22:13:40,538 - YouTubeScraper - INFO - Found 3 videos for array array traversal tutorial
+2025-06-17 22:13:40,925 - GFGScraper - WARNING - No search results found for array traversal on GFG
+2025-06-17 22:13:41,112 - W3SchoolsScraper - WARNING - No search results found for array traversal on W3Schools
+2025-06-17 22:13:41,113 - root - INFO - Scraping data for subtopic: array algorithms of array
+2025-06-17 22:13:41,114 - GFGScraper - INFO - Scraping GFG for subtopic: array algorithms under array
+2025-06-17 22:13:41,116 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: array algorithms under array
+2025-06-17 22:13:41,117 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: array algorithms under array
+2025-06-17 22:13:41,118 - NPTELScraper - INFO - Scraping NPTEL for subtopic: array algorithms under array
+2025-06-17 22:13:41,118 - YouTubeScraper - INFO - Searching YouTube for: array array algorithms tutorial
+2025-06-17 22:13:41,119 - YouTubeScraper - INFO - Found 3 videos for array array algorithms tutorial
+2025-06-17 22:13:41,551 - GFGScraper - WARNING - No search results found for array algorithms on GFG
+2025-06-17 22:13:41,706 - W3SchoolsScraper - WARNING - No search results found for array algorithms on W3Schools
+2025-06-17 22:13:41,707 - root - INFO - Processing and merging data from different sources
+2025-06-17 22:13:41,708 - DataProcessor - INFO - Processing scraped data
+2025-06-17 22:13:41,708 - DataProcessor - INFO - Processing scraped data
+2025-06-17 22:13:41,709 - root - INFO - Building knowledge graph
+2025-06-17 22:13:41,710 - GraphBuilder - INFO - Building knowledge graph
+2025-06-17 22:13:41,710 - GraphBuilder - INFO - Building knowledge graph
+2025-06-17 22:13:41,710 - root - INFO - Saving knowledge graph to file
+2025-06-17 22:13:41,716 - root - INFO - Knowledge graph saved to C:\Users\Ritesh Singh\OneDrive\Pictures\webs\dsa-scraper\python-scraper\output\dsa_graph.json
+2025-06-17 22:13:41,722 - root - INFO - Knowledge graph copied to frontend at C:\Users\Ritesh Singh\OneDrive\Pictures\webs\dsa-scraper\typescript-frontend\public\dsa_graph.json
+2025-06-17 22:13:41,723 - CLI - INFO - Scraping completed in 9.39 seconds
+2025-06-17 22:13:41,723 - CLI - INFO - Scraping completed in 9.39 seconds
+2025-06-17 22:13:41,724 - CLI - INFO - Found existing graph at C:\Users\Ritesh Singh\OneDrive\Pictures\webs\dsa-scraper\python-scraper\output\dsa_graph.json
+2025-06-17 22:13:41,724 - CLI - INFO - Found existing graph at C:\Users\Ritesh Singh\OneDrive\Pictures\webs\dsa-scraper\python-scraper\output\dsa_graph.json
+2025-06-17 22:13:41,748 - CLI - INFO - Existing graph has 1 concepts
+2025-06-17 22:13:41,748 - CLI - INFO - Existing graph has 1 concepts
+2025-06-17 22:13:41,748 - CLI - INFO - DSA graph successfully saved to C:\Users\Ritesh Singh\OneDrive\Pictures\webs\dsa-scraper\python-scraper\output\dsa_graph.json
+2025-06-17 22:13:41,748 - CLI - INFO - DSA graph successfully saved to C:\Users\Ritesh Singh\OneDrive\Pictures\webs\dsa-scraper\python-scraper\output\dsa_graph.json
+2025-06-17 22:13:41,754 - CLI - INFO - DSA graph copied to frontend at C:\Users\Ritesh Singh\OneDrive\Pictures\webs\dsa-scraper\typescript-frontend\public\dsa_graph.json
+2025-06-17 22:13:41,754 - CLI - INFO - DSA graph copied to frontend at C:\Users\Ritesh Singh\OneDrive\Pictures\webs\dsa-scraper\typescript-frontend\public\dsa_graph.json
+2025-06-17 22:14:24,531 - CLI - INFO - Starting DSA scraper
+2025-06-17 22:14:24,531 - CLI - INFO - Starting DSA scraper
+2025-06-17 22:14:24,532 - root - INFO - Starting DSA scraper
+2025-06-17 22:14:24,532 - root - INFO - Scraping data for topic: array
+2025-06-17 22:14:24,532 - GFGScraper - INFO - Scraping GFG for topic: array
+2025-06-17 22:14:24,575 - W3SchoolsScraper - INFO - Scraping W3Schools for topic: array
+2025-06-17 22:14:24,576 - LeetCodeScraper - INFO - Scraping LeetCode for topic: array
+2025-06-17 22:14:24,576 - NPTELScraper - INFO - Scraping NPTEL for topic: array
+2025-06-17 22:14:24,577 - YouTubeScraper - INFO - Searching YouTube for: array data structure algorithm tutorial
+2025-06-17 22:14:24,577 - YouTubeScraper - INFO - Found 3 videos for array data structure algorithm tutorial
+2025-06-17 22:14:25,528 - GFGScraper - WARNING - No search results found for array on GFG, trying direct URL approach
+2025-06-17 22:14:25,529 - GFGScraper - ERROR - Error scraping GFG for array: Session is closed
+2025-06-17 22:14:25,538 - W3SchoolsScraper - WARNING - No search results found for array on W3Schools
+2025-06-17 22:14:25,539 - root - INFO - Scraping data for subtopic: array initialization of array
+2025-06-17 22:14:25,539 - GFGScraper - INFO - Scraping GFG for subtopic: array initialization under array
+2025-06-17 22:14:25,540 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: array initialization under array
+2025-06-17 22:14:25,541 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: array initialization under array
+2025-06-17 22:14:25,541 - NPTELScraper - INFO - Scraping NPTEL for subtopic: array initialization under array
+2025-06-17 22:14:25,541 - YouTubeScraper - INFO - Searching YouTube for: array array initialization tutorial
+2025-06-17 22:14:25,541 - YouTubeScraper - INFO - Found 3 videos for array array initialization tutorial
+2025-06-17 22:14:26,150 - GFGScraper - WARNING - No search results found for array initialization on GFG
+2025-06-17 22:14:26,536 - W3SchoolsScraper - WARNING - No search results found for array initialization on W3Schools
+2025-06-17 22:14:26,536 - root - INFO - Scraping data for subtopic: array operations of array
+2025-06-17 22:14:26,537 - GFGScraper - INFO - Scraping GFG for subtopic: array operations under array
+2025-06-17 22:14:26,537 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: array operations under array
+2025-06-17 22:14:26,539 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: array operations under array
+2025-06-17 22:14:26,539 - NPTELScraper - INFO - Scraping NPTEL for subtopic: array operations under array
+2025-06-17 22:14:26,539 - YouTubeScraper - INFO - Searching YouTube for: array array operations tutorial
+2025-06-17 22:14:26,539 - YouTubeScraper - INFO - Found 3 videos for array array operations tutorial
+2025-06-17 22:14:27,028 - GFGScraper - WARNING - No search results found for array operations on GFG
+2025-06-17 22:14:27,287 - W3SchoolsScraper - WARNING - No search results found for array operations on W3Schools
+2025-06-17 22:14:27,287 - root - INFO - Scraping data for subtopic: dynamic array of array
+2025-06-17 22:14:27,288 - GFGScraper - INFO - Scraping GFG for subtopic: dynamic array under array
+2025-06-17 22:14:27,289 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: dynamic array under array
+2025-06-17 22:14:27,289 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: dynamic array under array
+2025-06-17 22:14:27,290 - NPTELScraper - INFO - Scraping NPTEL for subtopic: dynamic array under array
+2025-06-17 22:14:27,290 - YouTubeScraper - INFO - Searching YouTube for: array dynamic array tutorial
+2025-06-17 22:14:27,290 - YouTubeScraper - INFO - Found 3 videos for array dynamic array tutorial
+2025-06-17 22:14:28,112 - GFGScraper - WARNING - No search results found for dynamic array on GFG
+2025-06-17 22:14:28,429 - W3SchoolsScraper - WARNING - No search results found for dynamic array on W3Schools
+2025-06-17 22:14:28,430 - root - INFO - Scraping data for subtopic: array manipulation of array
+2025-06-17 22:14:28,430 - GFGScraper - INFO - Scraping GFG for subtopic: array manipulation under array
+2025-06-17 22:14:28,431 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: array manipulation under array
+2025-06-17 22:14:28,432 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: array manipulation under array
+2025-06-17 22:14:28,433 - NPTELScraper - INFO - Scraping NPTEL for subtopic: array manipulation under array
+2025-06-17 22:14:28,434 - YouTubeScraper - INFO - Searching YouTube for: array array manipulation tutorial
+2025-06-17 22:14:28,434 - YouTubeScraper - INFO - Found 3 videos for array array manipulation tutorial
+2025-06-17 22:14:29,420 - GFGScraper - WARNING - No search results found for array manipulation on GFG
+2025-06-17 22:14:29,617 - W3SchoolsScraper - WARNING - No search results found for array manipulation on W3Schools
+2025-06-17 22:14:29,617 - root - INFO - Scraping data for subtopic: array searching of array
+2025-06-17 22:14:29,618 - GFGScraper - INFO - Scraping GFG for subtopic: array searching under array
+2025-06-17 22:14:29,618 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: array searching under array
+2025-06-17 22:14:29,619 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: array searching under array
+2025-06-17 22:14:29,620 - NPTELScraper - INFO - Scraping NPTEL for subtopic: array searching under array
+2025-06-17 22:14:29,620 - YouTubeScraper - INFO - Searching YouTube for: array array searching tutorial
+2025-06-17 22:14:29,621 - YouTubeScraper - INFO - Found 3 videos for array array searching tutorial
+2025-06-17 22:14:30,761 - GFGScraper - WARNING - No search results found for array searching on GFG
+2025-06-17 22:14:31,284 - W3SchoolsScraper - WARNING - No search results found for array searching on W3Schools
+2025-06-17 22:14:31,285 - root - INFO - Scraping data for subtopic: array sorting of array
+2025-06-17 22:14:31,286 - GFGScraper - INFO - Scraping GFG for subtopic: array sorting under array
+2025-06-17 22:14:31,287 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: array sorting under array
+2025-06-17 22:14:31,287 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: array sorting under array
+2025-06-17 22:14:31,288 - NPTELScraper - INFO - Scraping NPTEL for subtopic: array sorting under array
+2025-06-17 22:14:31,288 - YouTubeScraper - INFO - Searching YouTube for: array array sorting tutorial
+2025-06-17 22:14:31,288 - YouTubeScraper - INFO - Found 3 videos for array array sorting tutorial
+2025-06-17 22:14:32,220 - GFGScraper - WARNING - No search results found for array sorting on GFG
+2025-06-17 22:14:32,523 - W3SchoolsScraper - WARNING - No search results found for array sorting on W3Schools
+2025-06-17 22:14:32,523 - root - INFO - Scraping data for subtopic: multidimensional arrays of array
+2025-06-17 22:14:32,524 - GFGScraper - INFO - Scraping GFG for subtopic: multidimensional arrays under array
+2025-06-17 22:14:32,524 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: multidimensional arrays under array
+2025-06-17 22:14:32,525 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: multidimensional arrays under array
+2025-06-17 22:14:32,526 - NPTELScraper - INFO - Scraping NPTEL for subtopic: multidimensional arrays under array
+2025-06-17 22:14:32,526 - YouTubeScraper - INFO - Searching YouTube for: array multidimensional arrays tutorial
+2025-06-17 22:14:32,526 - YouTubeScraper - INFO - Found 3 videos for array multidimensional arrays tutorial
+2025-06-17 22:14:33,548 - GFGScraper - WARNING - No search results found for multidimensional arrays on GFG
+2025-06-17 22:14:33,775 - W3SchoolsScraper - WARNING - No search results found for multidimensional arrays on W3Schools
+2025-06-17 22:14:33,775 - root - INFO - Scraping data for subtopic: array rotation of array
+2025-06-17 22:14:33,776 - GFGScraper - INFO - Scraping GFG for subtopic: array rotation under array
+2025-06-17 22:14:33,777 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: array rotation under array
+2025-06-17 22:14:33,777 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: array rotation under array
+2025-06-17 22:14:33,778 - NPTELScraper - INFO - Scraping NPTEL for subtopic: array rotation under array
+2025-06-17 22:14:33,778 - YouTubeScraper - INFO - Searching YouTube for: array array rotation tutorial
+2025-06-17 22:14:33,778 - YouTubeScraper - INFO - Found 3 videos for array array rotation tutorial
+2025-06-17 22:14:34,519 - GFGScraper - WARNING - No search results found for array rotation on GFG
+2025-06-17 22:14:34,729 - W3SchoolsScraper - WARNING - No search results found for array rotation on W3Schools
+2025-06-17 22:14:34,729 - root - INFO - Scraping data for subtopic: array traversal of array
+2025-06-17 22:14:34,730 - GFGScraper - INFO - Scraping GFG for subtopic: array traversal under array
+2025-06-17 22:14:34,731 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: array traversal under array
+2025-06-17 22:14:34,732 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: array traversal under array
+2025-06-17 22:14:34,732 - NPTELScraper - INFO - Scraping NPTEL for subtopic: array traversal under array
+2025-06-17 22:14:34,732 - YouTubeScraper - INFO - Searching YouTube for: array array traversal tutorial
+2025-06-17 22:14:34,733 - YouTubeScraper - INFO - Found 3 videos for array array traversal tutorial
+2025-06-17 22:14:35,580 - GFGScraper - WARNING - No search results found for array traversal on GFG
+2025-06-17 22:14:35,877 - W3SchoolsScraper - WARNING - No search results found for array traversal on W3Schools
+2025-06-17 22:14:35,878 - root - INFO - Scraping data for subtopic: array algorithms of array
+2025-06-17 22:14:35,878 - GFGScraper - INFO - Scraping GFG for subtopic: array algorithms under array
+2025-06-17 22:14:35,879 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: array algorithms under array
+2025-06-17 22:14:35,879 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: array algorithms under array
+2025-06-17 22:14:35,880 - NPTELScraper - INFO - Scraping NPTEL for subtopic: array algorithms under array
+2025-06-17 22:14:35,880 - YouTubeScraper - INFO - Searching YouTube for: array array algorithms tutorial
+2025-06-17 22:14:35,880 - YouTubeScraper - INFO - Found 3 videos for array array algorithms tutorial
+2025-06-17 22:14:36,576 - GFGScraper - WARNING - No search results found for array algorithms on GFG
+2025-06-17 22:14:36,830 - W3SchoolsScraper - WARNING - No search results found for array algorithms on W3Schools
+2025-06-17 22:14:36,832 - root - INFO - Processing and merging data from different sources
+2025-06-17 22:14:36,833 - DataProcessor - INFO - Processing scraped data
+2025-06-17 22:14:36,833 - DataProcessor - INFO - Processing scraped data
+2025-06-17 22:14:36,834 - root - INFO - Building knowledge graph
+2025-06-17 22:14:36,835 - GraphBuilder - INFO - Building knowledge graph
+2025-06-17 22:14:36,835 - GraphBuilder - INFO - Building knowledge graph
+2025-06-17 22:14:36,836 - root - INFO - Saving knowledge graph to file
+2025-06-17 22:14:36,841 - root - INFO - Knowledge graph saved to C:\Users\Ritesh Singh\OneDrive\Pictures\webs\dsa-scraper\python-scraper\output\dsa_graph.json
+2025-06-17 22:14:36,846 - root - INFO - Knowledge graph copied to frontend at C:\Users\Ritesh Singh\OneDrive\Pictures\webs\dsa-scraper\typescript-frontend\public\dsa_graph.json
+2025-06-17 22:14:36,847 - CLI - INFO - Scraping completed in 12.32 seconds
+2025-06-17 22:14:36,847 - CLI - INFO - Scraping completed in 12.32 seconds
+2025-06-17 22:14:36,849 - CLI - INFO - Found existing graph at C:\Users\Ritesh Singh\OneDrive\Pictures\webs\dsa-scraper\python-scraper\output\dsa_graph.json
+2025-06-17 22:14:36,849 - CLI - INFO - Found existing graph at C:\Users\Ritesh Singh\OneDrive\Pictures\webs\dsa-scraper\python-scraper\output\dsa_graph.json
+2025-06-17 22:14:36,868 - CLI - INFO - Existing graph has 1 concepts
+2025-06-17 22:14:36,868 - CLI - INFO - Existing graph has 1 concepts
+2025-06-17 22:14:36,869 - CLI - INFO - DSA graph successfully saved to C:\Users\Ritesh Singh\OneDrive\Pictures\webs\dsa-scraper\python-scraper\output\dsa_graph.json
+2025-06-17 22:14:36,869 - CLI - INFO - DSA graph successfully saved to C:\Users\Ritesh Singh\OneDrive\Pictures\webs\dsa-scraper\python-scraper\output\dsa_graph.json
+2025-06-17 22:14:36,875 - CLI - INFO - DSA graph copied to frontend at C:\Users\Ritesh Singh\OneDrive\Pictures\webs\dsa-scraper\typescript-frontend\public\dsa_graph.json
+2025-06-17 22:14:36,875 - CLI - INFO - DSA graph copied to frontend at C:\Users\Ritesh Singh\OneDrive\Pictures\webs\dsa-scraper\typescript-frontend\public\dsa_graph.json
+2025-06-17 22:47:42,007 - CLI - INFO - Starting DSA scraper
+2025-06-17 22:47:42,007 - CLI - INFO - Starting DSA scraper
+2025-06-17 22:47:42,012 - root - INFO - Starting DSA scraper
+2025-06-17 22:47:42,013 - root - INFO - Scraping data for topic: array
+2025-06-17 22:47:42,015 - GFGScraper - INFO - Scraping GFG for topic: array
+2025-06-17 22:47:42,079 - W3SchoolsScraper - INFO - Scraping W3Schools for topic: array
+2025-06-17 22:47:42,080 - LeetCodeScraper - INFO - Scraping LeetCode for topic: array
+2025-06-17 22:47:42,081 - NPTELScraper - INFO - Scraping NPTEL for topic: array
+2025-06-17 22:47:42,082 - YouTubeScraper - INFO - Searching YouTube for: array data structure algorithm tutorial
+2025-06-17 22:47:42,082 - YouTubeScraper - INFO - Found 3 videos for array data structure algorithm tutorial
+2025-06-17 22:47:42,493 - GFGScraper - WARNING - No search results found for array on GFG, trying direct URL approach
+2025-06-17 22:47:42,495 - GFGScraper - ERROR - Error scraping GFG for array: Session is closed
+2025-06-17 22:47:42,934 - W3SchoolsScraper - WARNING - No search results found for array on W3Schools
+2025-06-17 22:47:42,935 - root - INFO - Scraping data for subtopic: array initialization of array
+2025-06-17 22:47:42,936 - GFGScraper - INFO - Scraping GFG for subtopic: array initialization under array
+2025-06-17 22:47:42,936 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: array initialization under array
+2025-06-17 22:47:42,937 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: array initialization under array
+2025-06-17 22:47:42,937 - NPTELScraper - INFO - Scraping NPTEL for subtopic: array initialization under array
+2025-06-17 22:47:42,937 - YouTubeScraper - INFO - Searching YouTube for: array array initialization tutorial
+2025-06-17 22:47:42,938 - YouTubeScraper - INFO - Found 3 videos for array array initialization tutorial
+2025-06-17 22:47:43,268 - GFGScraper - WARNING - No search results found for array initialization on GFG
+2025-06-17 22:47:43,431 - W3SchoolsScraper - WARNING - No search results found for array initialization on W3Schools
+2025-06-17 22:47:43,432 - root - INFO - Scraping data for subtopic: array operations of array
+2025-06-17 22:47:43,433 - GFGScraper - INFO - Scraping GFG for subtopic: array operations under array
+2025-06-17 22:47:43,434 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: array operations under array
+2025-06-17 22:47:43,434 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: array operations under array
+2025-06-17 22:47:43,435 - NPTELScraper - INFO - Scraping NPTEL for subtopic: array operations under array
+2025-06-17 22:47:43,435 - YouTubeScraper - INFO - Searching YouTube for: array array operations tutorial
+2025-06-17 22:47:43,435 - YouTubeScraper - INFO - Found 3 videos for array array operations tutorial
+2025-06-17 22:47:43,760 - GFGScraper - WARNING - No search results found for array operations on GFG
+2025-06-17 22:47:43,943 - W3SchoolsScraper - WARNING - No search results found for array operations on W3Schools
+2025-06-17 22:47:43,944 - root - INFO - Scraping data for subtopic: dynamic array of array
+2025-06-17 22:47:43,944 - GFGScraper - INFO - Scraping GFG for subtopic: dynamic array under array
+2025-06-17 22:47:43,946 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: dynamic array under array
+2025-06-17 22:47:43,947 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: dynamic array under array
+2025-06-17 22:47:43,947 - NPTELScraper - INFO - Scraping NPTEL for subtopic: dynamic array under array
+2025-06-17 22:47:43,948 - YouTubeScraper - INFO - Searching YouTube for: array dynamic array tutorial
+2025-06-17 22:47:43,948 - YouTubeScraper - INFO - Found 3 videos for array dynamic array tutorial
+2025-06-17 22:47:44,451 - GFGScraper - WARNING - No search results found for dynamic array on GFG
+2025-06-17 22:47:44,464 - W3SchoolsScraper - WARNING - No search results found for dynamic array on W3Schools
+2025-06-17 22:47:44,467 - root - INFO - Scraping data for subtopic: array manipulation of array
+2025-06-17 22:47:44,470 - GFGScraper - INFO - Scraping GFG for subtopic: array manipulation under array
+2025-06-17 22:47:44,470 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: array manipulation under array
+2025-06-17 22:47:44,471 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: array manipulation under array
+2025-06-17 22:47:44,472 - NPTELScraper - INFO - Scraping NPTEL for subtopic: array manipulation under array
+2025-06-17 22:47:44,472 - YouTubeScraper - INFO - Searching YouTube for: array array manipulation tutorial
+2025-06-17 22:47:44,473 - YouTubeScraper - INFO - Found 3 videos for array array manipulation tutorial
+2025-06-17 22:47:44,803 - GFGScraper - WARNING - No search results found for array manipulation on GFG
+2025-06-17 22:47:45,188 - W3SchoolsScraper - WARNING - No search results found for array manipulation on W3Schools
+2025-06-17 22:47:45,189 - root - INFO - Scraping data for subtopic: array searching of array
+2025-06-17 22:47:45,189 - GFGScraper - INFO - Scraping GFG for subtopic: array searching under array
+2025-06-17 22:47:45,191 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: array searching under array
+2025-06-17 22:47:45,191 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: array searching under array
+2025-06-17 22:47:45,192 - NPTELScraper - INFO - Scraping NPTEL for subtopic: array searching under array
+2025-06-17 22:47:45,192 - YouTubeScraper - INFO - Searching YouTube for: array array searching tutorial
+2025-06-17 22:47:45,192 - YouTubeScraper - INFO - Found 3 videos for array array searching tutorial
+2025-06-17 22:47:45,516 - GFGScraper - WARNING - No search results found for array searching on GFG
+2025-06-17 22:47:45,663 - W3SchoolsScraper - WARNING - No search results found for array searching on W3Schools
+2025-06-17 22:47:45,663 - root - INFO - Scraping data for subtopic: array sorting of array
+2025-06-17 22:47:45,664 - GFGScraper - INFO - Scraping GFG for subtopic: array sorting under array
+2025-06-17 22:47:45,664 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: array sorting under array
+2025-06-17 22:47:45,664 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: array sorting under array
+2025-06-17 22:47:45,665 - NPTELScraper - INFO - Scraping NPTEL for subtopic: array sorting under array
+2025-06-17 22:47:45,665 - YouTubeScraper - INFO - Searching YouTube for: array array sorting tutorial
+2025-06-17 22:47:45,665 - YouTubeScraper - INFO - Found 3 videos for array array sorting tutorial
+2025-06-17 22:47:46,024 - GFGScraper - WARNING - No search results found for array sorting on GFG
+2025-06-17 22:47:46,170 - W3SchoolsScraper - WARNING - No search results found for array sorting on W3Schools
+2025-06-17 22:47:46,170 - root - INFO - Scraping data for subtopic: multidimensional arrays of array
+2025-06-17 22:47:46,170 - GFGScraper - INFO - Scraping GFG for subtopic: multidimensional arrays under array
+2025-06-17 22:47:46,171 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: multidimensional arrays under array
+2025-06-17 22:47:46,171 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: multidimensional arrays under array
+2025-06-17 22:47:46,171 - NPTELScraper - INFO - Scraping NPTEL for subtopic: multidimensional arrays under array
+2025-06-17 22:47:46,171 - YouTubeScraper - INFO - Searching YouTube for: array multidimensional arrays tutorial
+2025-06-17 22:47:46,171 - YouTubeScraper - INFO - Found 3 videos for array multidimensional arrays tutorial
+2025-06-17 22:47:46,518 - GFGScraper - WARNING - No search results found for multidimensional arrays on GFG
+2025-06-17 22:47:46,675 - W3SchoolsScraper - WARNING - No search results found for multidimensional arrays on W3Schools
+2025-06-17 22:47:46,676 - root - INFO - Scraping data for subtopic: array rotation of array
+2025-06-17 22:47:46,677 - GFGScraper - INFO - Scraping GFG for subtopic: array rotation under array
+2025-06-17 22:47:46,678 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: array rotation under array
+2025-06-17 22:47:46,679 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: array rotation under array
+2025-06-17 22:47:46,680 - NPTELScraper - INFO - Scraping NPTEL for subtopic: array rotation under array
+2025-06-17 22:47:46,680 - YouTubeScraper - INFO - Searching YouTube for: array array rotation tutorial
+2025-06-17 22:47:46,681 - YouTubeScraper - INFO - Found 3 videos for array array rotation tutorial
+2025-06-17 22:47:47,046 - GFGScraper - WARNING - No search results found for array rotation on GFG
+2025-06-17 22:47:47,289 - W3SchoolsScraper - WARNING - No search results found for array rotation on W3Schools
+2025-06-17 22:47:47,290 - root - INFO - Scraping data for subtopic: array traversal of array
+2025-06-17 22:47:47,290 - GFGScraper - INFO - Scraping GFG for subtopic: array traversal under array
+2025-06-17 22:47:47,291 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: array traversal under array
+2025-06-17 22:47:47,291 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: array traversal under array
+2025-06-17 22:47:47,291 - NPTELScraper - INFO - Scraping NPTEL for subtopic: array traversal under array
+2025-06-17 22:47:47,291 - YouTubeScraper - INFO - Searching YouTube for: array array traversal tutorial
+2025-06-17 22:47:47,291 - YouTubeScraper - INFO - Found 3 videos for array array traversal tutorial
+2025-06-17 22:47:47,623 - GFGScraper - WARNING - No search results found for array traversal on GFG
+2025-06-17 22:47:47,823 - W3SchoolsScraper - WARNING - No search results found for array traversal on W3Schools
+2025-06-17 22:47:47,823 - root - INFO - Scraping data for subtopic: array algorithms of array
+2025-06-17 22:47:47,824 - GFGScraper - INFO - Scraping GFG for subtopic: array algorithms under array
+2025-06-17 22:47:47,824 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: array algorithms under array
+2025-06-17 22:47:47,826 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: array algorithms under array
+2025-06-17 22:47:47,826 - NPTELScraper - INFO - Scraping NPTEL for subtopic: array algorithms under array
+2025-06-17 22:47:47,826 - YouTubeScraper - INFO - Searching YouTube for: array array algorithms tutorial
+2025-06-17 22:47:47,826 - YouTubeScraper - INFO - Found 3 videos for array array algorithms tutorial
+2025-06-17 22:47:48,171 - GFGScraper - WARNING - No search results found for array algorithms on GFG
+2025-06-17 22:47:48,343 - W3SchoolsScraper - WARNING - No search results found for array algorithms on W3Schools
+2025-06-17 22:47:48,344 - root - INFO - Scraping data for topic: linked list
+2025-06-17 22:47:48,344 - GFGScraper - INFO - Scraping GFG for topic: linked list
+2025-06-17 22:47:48,345 - W3SchoolsScraper - INFO - Scraping W3Schools for topic: linked list
+2025-06-17 22:47:48,345 - LeetCodeScraper - INFO - Scraping LeetCode for topic: linked list
+2025-06-17 22:47:48,346 - NPTELScraper - INFO - Scraping NPTEL for topic: linked list
+2025-06-17 22:47:48,346 - YouTubeScraper - INFO - Searching YouTube for: linked list data structure algorithm tutorial
+2025-06-17 22:47:48,346 - YouTubeScraper - INFO - Found 3 videos for linked list data structure algorithm tutorial
+2025-06-17 22:47:48,746 - GFGScraper - WARNING - No search results found for linked list on GFG, trying direct URL approach
+2025-06-17 22:47:48,746 - GFGScraper - ERROR - Error scraping GFG for linked list: Session is closed
+2025-06-17 22:47:49,058 - W3SchoolsScraper - WARNING - No search results found for linked list on W3Schools
+2025-06-17 22:47:49,059 - root - INFO - Scraping data for subtopic: singly linked list of linked list
+2025-06-17 22:47:49,059 - GFGScraper - INFO - Scraping GFG for subtopic: singly linked list under linked list
+2025-06-17 22:47:49,060 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: singly linked list under linked list
+2025-06-17 22:47:49,061 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: singly linked list under linked list
+2025-06-17 22:47:49,061 - NPTELScraper - INFO - Scraping NPTEL for subtopic: singly linked list under linked list
+2025-06-17 22:47:49,061 - YouTubeScraper - INFO - Searching YouTube for: linked list singly linked list tutorial
+2025-06-17 22:47:49,061 - YouTubeScraper - INFO - Found 3 videos for linked list singly linked list tutorial
+2025-06-17 22:47:50,035 - W3SchoolsScraper - WARNING - No search results found for singly linked list on W3Schools
+2025-06-17 22:47:50,520 - GFGScraper - WARNING - No search results found for singly linked list on GFG
+2025-06-17 22:47:50,521 - root - INFO - Scraping data for subtopic: doubly linked list of linked list
+2025-06-17 22:47:50,521 - GFGScraper - INFO - Scraping GFG for subtopic: doubly linked list under linked list
+2025-06-17 22:47:50,522 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: doubly linked list under linked list
+2025-06-17 22:47:50,523 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: doubly linked list under linked list
+2025-06-17 22:47:50,523 - NPTELScraper - INFO - Scraping NPTEL for subtopic: doubly linked list under linked list
+2025-06-17 22:47:50,524 - YouTubeScraper - INFO - Searching YouTube for: linked list doubly linked list tutorial
+2025-06-17 22:47:50,524 - YouTubeScraper - INFO - Found 3 videos for linked list doubly linked list tutorial
+2025-06-17 22:47:52,271 - GFGScraper - WARNING - No search results found for doubly linked list on GFG
+2025-06-17 22:47:52,728 - W3SchoolsScraper - WARNING - No search results found for doubly linked list on W3Schools
+2025-06-17 22:47:52,728 - root - INFO - Scraping data for subtopic: circular linked list of linked list
+2025-06-17 22:47:52,729 - GFGScraper - INFO - Scraping GFG for subtopic: circular linked list under linked list
+2025-06-17 22:47:52,729 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: circular linked list under linked list
+2025-06-17 22:47:52,730 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: circular linked list under linked list
+2025-06-17 22:47:52,731 - NPTELScraper - INFO - Scraping NPTEL for subtopic: circular linked list under linked list
+2025-06-17 22:47:52,731 - YouTubeScraper - INFO - Searching YouTube for: linked list circular linked list tutorial
+2025-06-17 22:47:52,731 - YouTubeScraper - INFO - Found 3 videos for linked list circular linked list tutorial
+2025-06-17 22:47:54,418 - GFGScraper - WARNING - No search results found for circular linked list on GFG
+2025-06-17 22:47:54,708 - W3SchoolsScraper - WARNING - No search results found for circular linked list on W3Schools
+2025-06-17 22:47:54,709 - root - INFO - Scraping data for subtopic: linked list operations of linked list
+2025-06-17 22:47:54,709 - GFGScraper - INFO - Scraping GFG for subtopic: linked list operations under linked list
+2025-06-17 22:47:54,710 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: linked list operations under linked list
+2025-06-17 22:47:54,711 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: linked list operations under linked list
+2025-06-17 22:47:54,712 - NPTELScraper - INFO - Scraping NPTEL for subtopic: linked list operations under linked list
+2025-06-17 22:47:54,712 - YouTubeScraper - INFO - Searching YouTube for: linked list linked list operations tutorial
+2025-06-17 22:47:54,713 - YouTubeScraper - INFO - Found 3 videos for linked list linked list operations tutorial
+2025-06-17 22:47:56,459 - W3SchoolsScraper - WARNING - No search results found for linked list operations on W3Schools
+2025-06-17 22:47:56,494 - GFGScraper - WARNING - No search results found for linked list operations on GFG
+2025-06-17 22:47:56,495 - root - INFO - Scraping data for subtopic: linked list traversal of linked list
+2025-06-17 22:47:56,495 - GFGScraper - INFO - Scraping GFG for subtopic: linked list traversal under linked list
+2025-06-17 22:47:56,496 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: linked list traversal under linked list
+2025-06-17 22:47:56,496 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: linked list traversal under linked list
+2025-06-17 22:47:56,503 - NPTELScraper - INFO - Scraping NPTEL for subtopic: linked list traversal under linked list
+2025-06-17 22:47:56,503 - YouTubeScraper - INFO - Searching YouTube for: linked list linked list traversal tutorial
+2025-06-17 22:47:56,504 - YouTubeScraper - INFO - Found 3 videos for linked list linked list traversal tutorial
+2025-06-17 22:47:57,731 - GFGScraper - WARNING - No search results found for linked list traversal on GFG
+2025-06-17 22:47:58,290 - W3SchoolsScraper - WARNING - No search results found for linked list traversal on W3Schools
+2025-06-17 22:47:58,290 - root - INFO - Scraping data for subtopic: linked list reversal of linked list
+2025-06-17 22:47:58,291 - GFGScraper - INFO - Scraping GFG for subtopic: linked list reversal under linked list
+2025-06-17 22:47:58,292 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: linked list reversal under linked list
+2025-06-17 22:47:58,293 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: linked list reversal under linked list
+2025-06-17 22:47:58,294 - NPTELScraper - INFO - Scraping NPTEL for subtopic: linked list reversal under linked list
+2025-06-17 22:47:58,295 - YouTubeScraper - INFO - Searching YouTube for: linked list linked list reversal tutorial
+2025-06-17 22:47:58,295 - YouTubeScraper - INFO - Found 3 videos for linked list linked list reversal tutorial
+2025-06-17 22:47:59,442 - GFGScraper - WARNING - No search results found for linked list reversal on GFG
+2025-06-17 22:47:59,948 - W3SchoolsScraper - WARNING - No search results found for linked list reversal on W3Schools
+2025-06-17 22:47:59,948 - root - INFO - Scraping data for subtopic: linked list insertion of linked list
+2025-06-17 22:47:59,949 - GFGScraper - INFO - Scraping GFG for subtopic: linked list insertion under linked list
+2025-06-17 22:47:59,949 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: linked list insertion under linked list
+2025-06-17 22:47:59,950 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: linked list insertion under linked list
+2025-06-17 22:47:59,950 - NPTELScraper - INFO - Scraping NPTEL for subtopic: linked list insertion under linked list
+2025-06-17 22:47:59,951 - YouTubeScraper - INFO - Searching YouTube for: linked list linked list insertion tutorial
+2025-06-17 22:47:59,951 - YouTubeScraper - INFO - Found 3 videos for linked list linked list insertion tutorial
+2025-06-17 22:48:01,956 - GFGScraper - WARNING - No search results found for linked list insertion on GFG
+2025-06-17 22:48:02,303 - W3SchoolsScraper - WARNING - No search results found for linked list insertion on W3Schools
+2025-06-17 22:48:02,304 - root - INFO - Scraping data for subtopic: linked list deletion of linked list
+2025-06-17 22:48:02,304 - GFGScraper - INFO - Scraping GFG for subtopic: linked list deletion under linked list
+2025-06-17 22:48:02,304 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: linked list deletion under linked list
+2025-06-17 22:48:02,305 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: linked list deletion under linked list
+2025-06-17 22:48:02,305 - NPTELScraper - INFO - Scraping NPTEL for subtopic: linked list deletion under linked list
+2025-06-17 22:48:02,306 - YouTubeScraper - INFO - Searching YouTube for: linked list linked list deletion tutorial
+2025-06-17 22:48:02,306 - YouTubeScraper - INFO - Found 3 videos for linked list linked list deletion tutorial
+2025-06-17 22:48:03,837 - GFGScraper - WARNING - No search results found for linked list deletion on GFG
+2025-06-17 22:48:04,291 - W3SchoolsScraper - WARNING - No search results found for linked list deletion on W3Schools
+2025-06-17 22:48:04,292 - root - INFO - Scraping data for subtopic: linked list algorithms of linked list
+2025-06-17 22:48:04,292 - GFGScraper - INFO - Scraping GFG for subtopic: linked list algorithms under linked list
+2025-06-17 22:48:04,293 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: linked list algorithms under linked list
+2025-06-17 22:48:04,293 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: linked list algorithms under linked list
+2025-06-17 22:48:04,293 - NPTELScraper - INFO - Scraping NPTEL for subtopic: linked list algorithms under linked list
+2025-06-17 22:48:04,293 - YouTubeScraper - INFO - Searching YouTube for: linked list linked list algorithms tutorial
+2025-06-17 22:48:04,293 - YouTubeScraper - INFO - Found 3 videos for linked list linked list algorithms tutorial
+2025-06-17 22:48:05,025 - W3SchoolsScraper - WARNING - No search results found for linked list algorithms on W3Schools
+2025-06-17 22:48:05,936 - GFGScraper - WARNING - No search results found for linked list algorithms on GFG
+2025-06-17 22:48:05,936 - root - INFO - Scraping data for topic: stack
+2025-06-17 22:48:05,936 - GFGScraper - INFO - Scraping GFG for topic: stack
+2025-06-17 22:48:05,937 - W3SchoolsScraper - INFO - Scraping W3Schools for topic: stack
+2025-06-17 22:48:05,937 - LeetCodeScraper - INFO - Scraping LeetCode for topic: stack
+2025-06-17 22:48:05,937 - NPTELScraper - INFO - Scraping NPTEL for topic: stack
+2025-06-17 22:48:05,938 - YouTubeScraper - INFO - Searching YouTube for: stack data structure algorithm tutorial
+2025-06-17 22:48:05,938 - YouTubeScraper - INFO - Found 3 videos for stack data structure algorithm tutorial
+2025-06-17 22:48:07,025 - W3SchoolsScraper - WARNING - No search results found for stack on W3Schools
+2025-06-17 22:48:07,947 - GFGScraper - WARNING - No search results found for stack on GFG, trying direct URL approach
+2025-06-17 22:48:07,947 - GFGScraper - ERROR - Error scraping GFG for stack: Session is closed
+2025-06-17 22:48:07,947 - root - INFO - Scraping data for subtopic: stack operations of stack
+2025-06-17 22:48:07,947 - GFGScraper - INFO - Scraping GFG for subtopic: stack operations under stack
+2025-06-17 22:48:07,948 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: stack operations under stack
+2025-06-17 22:48:07,948 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: stack operations under stack
+2025-06-17 22:48:07,949 - NPTELScraper - INFO - Scraping NPTEL for subtopic: stack operations under stack
+2025-06-17 22:48:07,949 - YouTubeScraper - INFO - Searching YouTube for: stack stack operations tutorial
+2025-06-17 22:48:07,949 - YouTubeScraper - INFO - Found 3 videos for stack stack operations tutorial
+2025-06-17 22:48:09,456 - GFGScraper - WARNING - No search results found for stack operations on GFG
+2025-06-17 22:48:09,911 - W3SchoolsScraper - WARNING - No search results found for stack operations on W3Schools
+2025-06-17 22:48:09,911 - root - INFO - Scraping data for subtopic: stack implementation of stack
+2025-06-17 22:48:09,912 - GFGScraper - INFO - Scraping GFG for subtopic: stack implementation under stack
+2025-06-17 22:48:09,913 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: stack implementation under stack
+2025-06-17 22:48:09,913 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: stack implementation under stack
+2025-06-17 22:48:09,914 - NPTELScraper - INFO - Scraping NPTEL for subtopic: stack implementation under stack
+2025-06-17 22:48:09,914 - YouTubeScraper - INFO - Searching YouTube for: stack stack implementation tutorial
+2025-06-17 22:48:09,914 - YouTubeScraper - INFO - Found 3 videos for stack stack implementation tutorial
+2025-06-17 22:48:11,613 - GFGScraper - WARNING - No search results found for stack implementation on GFG
+2025-06-17 22:48:12,623 - W3SchoolsScraper - WARNING - No search results found for stack implementation on W3Schools
+2025-06-17 22:48:12,624 - root - INFO - Scraping data for subtopic: stack applications of stack
+2025-06-17 22:48:12,624 - GFGScraper - INFO - Scraping GFG for subtopic: stack applications under stack
+2025-06-17 22:48:12,625 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: stack applications under stack
+2025-06-17 22:48:12,626 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: stack applications under stack
+2025-06-17 22:48:12,626 - NPTELScraper - INFO - Scraping NPTEL for subtopic: stack applications under stack
+2025-06-17 22:48:12,627 - YouTubeScraper - INFO - Searching YouTube for: stack stack applications tutorial
+2025-06-17 22:48:12,627 - YouTubeScraper - INFO - Found 3 videos for stack stack applications tutorial
+2025-06-17 22:48:13,612 - W3SchoolsScraper - WARNING - No search results found for stack applications on W3Schools
+2025-06-17 22:48:14,505 - GFGScraper - WARNING - No search results found for stack applications on GFG
+2025-06-17 22:48:14,506 - root - INFO - Scraping data for subtopic: stack algorithms of stack
+2025-06-17 22:48:14,506 - GFGScraper - INFO - Scraping GFG for subtopic: stack algorithms under stack
+2025-06-17 22:48:14,508 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: stack algorithms under stack
+2025-06-17 22:48:14,509 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: stack algorithms under stack
+2025-06-17 22:48:14,510 - NPTELScraper - INFO - Scraping NPTEL for subtopic: stack algorithms under stack
+2025-06-17 22:48:14,510 - YouTubeScraper - INFO - Searching YouTube for: stack stack algorithms tutorial
+2025-06-17 22:48:14,511 - YouTubeScraper - INFO - Found 3 videos for stack stack algorithms tutorial
+2025-06-17 22:48:16,427 - GFGScraper - WARNING - No search results found for stack algorithms on GFG
+2025-06-17 22:48:17,025 - W3SchoolsScraper - WARNING - No search results found for stack algorithms on W3Schools
+2025-06-17 22:48:17,025 - root - INFO - Scraping data for subtopic: expression evaluation of stack
+2025-06-17 22:48:17,026 - GFGScraper - INFO - Scraping GFG for subtopic: expression evaluation under stack
+2025-06-17 22:48:17,026 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: expression evaluation under stack
+2025-06-17 22:48:17,027 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: expression evaluation under stack
+2025-06-17 22:48:17,027 - NPTELScraper - INFO - Scraping NPTEL for subtopic: expression evaluation under stack
+2025-06-17 22:48:17,028 - YouTubeScraper - INFO - Searching YouTube for: stack expression evaluation tutorial
+2025-06-17 22:48:17,028 - YouTubeScraper - INFO - Found 3 videos for stack expression evaluation tutorial
+2025-06-17 22:48:19,211 - GFGScraper - WARNING - No search results found for expression evaluation on GFG
+2025-06-17 22:48:20,685 - W3SchoolsScraper - WARNING - No search results found for expression evaluation on W3Schools
+2025-06-17 22:48:20,685 - root - INFO - Scraping data for subtopic: balanced parentheses of stack
+2025-06-17 22:48:20,685 - GFGScraper - INFO - Scraping GFG for subtopic: balanced parentheses under stack
+2025-06-17 22:48:20,686 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: balanced parentheses under stack
+2025-06-17 22:48:20,686 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: balanced parentheses under stack
+2025-06-17 22:48:20,686 - NPTELScraper - INFO - Scraping NPTEL for subtopic: balanced parentheses under stack
+2025-06-17 22:48:20,686 - YouTubeScraper - INFO - Searching YouTube for: stack balanced parentheses tutorial
+2025-06-17 22:48:20,686 - YouTubeScraper - INFO - Found 3 videos for stack balanced parentheses tutorial
+2025-06-17 22:48:21,532 - GFGScraper - WARNING - No search results found for balanced parentheses on GFG
+2025-06-17 22:48:23,684 - W3SchoolsScraper - WARNING - No search results found for balanced parentheses on W3Schools
+2025-06-17 22:48:23,685 - root - INFO - Scraping data for subtopic: stack using arrays of stack
+2025-06-17 22:48:23,685 - GFGScraper - INFO - Scraping GFG for subtopic: stack using arrays under stack
+2025-06-17 22:48:23,685 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: stack using arrays under stack
+2025-06-17 22:48:23,685 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: stack using arrays under stack
+2025-06-17 22:48:23,686 - NPTELScraper - INFO - Scraping NPTEL for subtopic: stack using arrays under stack
+2025-06-17 22:48:23,686 - YouTubeScraper - INFO - Searching YouTube for: stack stack using arrays tutorial
+2025-06-17 22:48:23,686 - YouTubeScraper - INFO - Found 3 videos for stack stack using arrays tutorial
+2025-06-17 22:48:25,415 - GFGScraper - WARNING - No search results found for stack using arrays on GFG
+2025-06-17 22:48:26,093 - W3SchoolsScraper - WARNING - No search results found for stack using arrays on W3Schools
+2025-06-17 22:48:26,094 - root - INFO - Scraping data for subtopic: stack using linked list of stack
+2025-06-17 22:48:26,094 - GFGScraper - INFO - Scraping GFG for subtopic: stack using linked list under stack
+2025-06-17 22:48:26,095 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: stack using linked list under stack
+2025-06-17 22:48:26,095 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: stack using linked list under stack
+2025-06-17 22:48:26,096 - NPTELScraper - INFO - Scraping NPTEL for subtopic: stack using linked list under stack
+2025-06-17 22:48:26,096 - YouTubeScraper - INFO - Searching YouTube for: stack stack using linked list tutorial
+2025-06-17 22:48:26,096 - YouTubeScraper - INFO - Found 3 videos for stack stack using linked list tutorial
+2025-06-17 22:48:26,718 - W3SchoolsScraper - WARNING - No search results found for stack using linked list on W3Schools
+2025-06-17 22:48:27,390 - GFGScraper - WARNING - No search results found for stack using linked list on GFG
+2025-06-17 22:48:27,391 - root - INFO - Scraping data for topic: queue
+2025-06-17 22:48:27,391 - GFGScraper - INFO - Scraping GFG for topic: queue
+2025-06-17 22:48:27,392 - W3SchoolsScraper - INFO - Scraping W3Schools for topic: queue
+2025-06-17 22:48:27,392 - LeetCodeScraper - INFO - Scraping LeetCode for topic: queue
+2025-06-17 22:48:27,392 - NPTELScraper - INFO - Scraping NPTEL for topic: queue
+2025-06-17 22:48:27,393 - YouTubeScraper - INFO - Searching YouTube for: queue data structure algorithm tutorial
+2025-06-17 22:48:27,393 - YouTubeScraper - INFO - Found 3 videos for queue data structure algorithm tutorial
+2025-06-17 22:48:29,242 - W3SchoolsScraper - WARNING - No search results found for queue on W3Schools
+2025-06-17 22:48:29,671 - GFGScraper - WARNING - No search results found for queue on GFG, trying direct URL approach
+2025-06-17 22:48:29,672 - GFGScraper - ERROR - Error scraping GFG for queue: Session is closed
+2025-06-17 22:48:29,672 - root - INFO - Scraping data for subtopic: queue operations of queue
+2025-06-17 22:48:29,673 - GFGScraper - INFO - Scraping GFG for subtopic: queue operations under queue
+2025-06-17 22:48:29,674 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: queue operations under queue
+2025-06-17 22:48:29,675 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: queue operations under queue
+2025-06-17 22:48:29,675 - NPTELScraper - INFO - Scraping NPTEL for subtopic: queue operations under queue
+2025-06-17 22:48:29,675 - YouTubeScraper - INFO - Searching YouTube for: queue queue operations tutorial
+2025-06-17 22:48:29,676 - YouTubeScraper - INFO - Found 3 videos for queue queue operations tutorial
+2025-06-17 22:48:31,299 - GFGScraper - WARNING - No search results found for queue operations on GFG
+2025-06-17 22:48:31,792 - W3SchoolsScraper - WARNING - No search results found for queue operations on W3Schools
+2025-06-17 22:48:31,793 - root - INFO - Scraping data for subtopic: queue implementation of queue
+2025-06-17 22:48:31,793 - GFGScraper - INFO - Scraping GFG for subtopic: queue implementation under queue
+2025-06-17 22:48:31,795 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: queue implementation under queue
+2025-06-17 22:48:31,796 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: queue implementation under queue
+2025-06-17 22:48:31,796 - NPTELScraper - INFO - Scraping NPTEL for subtopic: queue implementation under queue
+2025-06-17 22:48:31,796 - YouTubeScraper - INFO - Searching YouTube for: queue queue implementation tutorial
+2025-06-17 22:48:31,796 - YouTubeScraper - INFO - Found 3 videos for queue queue implementation tutorial
+2025-06-17 22:48:32,543 - GFGScraper - WARNING - No search results found for queue implementation on GFG
+2025-06-17 22:48:33,370 - W3SchoolsScraper - WARNING - No search results found for queue implementation on W3Schools
+2025-06-17 22:48:33,370 - root - INFO - Scraping data for subtopic: queue applications of queue
+2025-06-17 22:48:33,372 - GFGScraper - INFO - Scraping GFG for subtopic: queue applications under queue
+2025-06-17 22:48:33,372 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: queue applications under queue
+2025-06-17 22:48:33,373 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: queue applications under queue
+2025-06-17 22:48:33,373 - NPTELScraper - INFO - Scraping NPTEL for subtopic: queue applications under queue
+2025-06-17 22:48:33,373 - YouTubeScraper - INFO - Searching YouTube for: queue queue applications tutorial
+2025-06-17 22:48:33,373 - YouTubeScraper - INFO - Found 3 videos for queue queue applications tutorial
+2025-06-17 22:48:35,547 - GFGScraper - WARNING - No search results found for queue applications on GFG
+2025-06-17 22:48:35,873 - W3SchoolsScraper - WARNING - No search results found for queue applications on W3Schools
+2025-06-17 22:48:35,873 - root - INFO - Scraping data for subtopic: queue algorithms of queue
+2025-06-17 22:48:35,874 - GFGScraper - INFO - Scraping GFG for subtopic: queue algorithms under queue
+2025-06-17 22:48:35,874 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: queue algorithms under queue
+2025-06-17 22:48:35,875 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: queue algorithms under queue
+2025-06-17 22:48:35,875 - NPTELScraper - INFO - Scraping NPTEL for subtopic: queue algorithms under queue
+2025-06-17 22:48:35,876 - YouTubeScraper - INFO - Searching YouTube for: queue queue algorithms tutorial
+2025-06-17 22:48:35,876 - YouTubeScraper - INFO - Found 3 videos for queue queue algorithms tutorial
+2025-06-17 22:48:36,295 - GFGScraper - WARNING - No search results found for queue algorithms on GFG
+2025-06-17 22:48:36,595 - W3SchoolsScraper - WARNING - No search results found for queue algorithms on W3Schools
+2025-06-17 22:48:36,595 - root - INFO - Scraping data for subtopic: circular queue of queue
+2025-06-17 22:48:36,595 - GFGScraper - INFO - Scraping GFG for subtopic: circular queue under queue
+2025-06-17 22:48:36,596 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: circular queue under queue
+2025-06-17 22:48:36,597 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: circular queue under queue
+2025-06-17 22:48:36,597 - NPTELScraper - INFO - Scraping NPTEL for subtopic: circular queue under queue
+2025-06-17 22:48:36,597 - YouTubeScraper - INFO - Searching YouTube for: queue circular queue tutorial
+2025-06-17 22:48:36,597 - YouTubeScraper - INFO - Found 3 videos for queue circular queue tutorial
+2025-06-17 22:48:37,461 - GFGScraper - WARNING - No search results found for circular queue on GFG
+2025-06-17 22:48:38,049 - W3SchoolsScraper - WARNING - No search results found for circular queue on W3Schools
+2025-06-17 22:48:38,050 - root - INFO - Scraping data for subtopic: priority queue of queue
+2025-06-17 22:48:38,050 - GFGScraper - INFO - Scraping GFG for subtopic: priority queue under queue
+2025-06-17 22:48:38,051 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: priority queue under queue
+2025-06-17 22:48:38,051 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: priority queue under queue
+2025-06-17 22:48:38,052 - NPTELScraper - INFO - Scraping NPTEL for subtopic: priority queue under queue
+2025-06-17 22:48:38,052 - YouTubeScraper - INFO - Searching YouTube for: queue priority queue tutorial
+2025-06-17 22:48:38,052 - YouTubeScraper - INFO - Found 3 videos for queue priority queue tutorial
+2025-06-17 22:48:39,193 - GFGScraper - WARNING - No search results found for priority queue on GFG
+2025-06-17 22:48:39,599 - W3SchoolsScraper - WARNING - No search results found for priority queue on W3Schools
+2025-06-17 22:48:39,600 - root - INFO - Scraping data for subtopic: deque of queue
+2025-06-17 22:48:39,600 - GFGScraper - INFO - Scraping GFG for subtopic: deque under queue
+2025-06-17 22:48:39,601 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: deque under queue
+2025-06-17 22:48:39,601 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: deque under queue
+2025-06-17 22:48:39,601 - NPTELScraper - INFO - Scraping NPTEL for subtopic: deque under queue
+2025-06-17 22:48:39,603 - YouTubeScraper - INFO - Searching YouTube for: queue deque tutorial
+2025-06-17 22:48:39,603 - YouTubeScraper - INFO - Found 3 videos for queue deque tutorial
+2025-06-17 22:48:40,717 - W3SchoolsScraper - WARNING - No search results found for deque on W3Schools
+2025-06-17 22:48:40,866 - GFGScraper - WARNING - No search results found for deque on GFG
+2025-06-17 22:48:40,867 - root - INFO - Scraping data for subtopic: queue using arrays of queue
+2025-06-17 22:48:40,869 - GFGScraper - INFO - Scraping GFG for subtopic: queue using arrays under queue
+2025-06-17 22:48:40,869 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: queue using arrays under queue
+2025-06-17 22:48:40,871 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: queue using arrays under queue
+2025-06-17 22:48:40,872 - NPTELScraper - INFO - Scraping NPTEL for subtopic: queue using arrays under queue
+2025-06-17 22:48:40,873 - YouTubeScraper - INFO - Searching YouTube for: queue queue using arrays tutorial
+2025-06-17 22:48:40,873 - YouTubeScraper - INFO - Found 3 videos for queue queue using arrays tutorial
+2025-06-17 22:48:41,674 - GFGScraper - WARNING - No search results found for queue using arrays on GFG
+2025-06-17 22:48:42,288 - W3SchoolsScraper - WARNING - No search results found for queue using arrays on W3Schools
+2025-06-17 22:48:42,288 - root - INFO - Scraping data for subtopic: queue using linked list of queue
+2025-06-17 22:48:42,288 - GFGScraper - INFO - Scraping GFG for subtopic: queue using linked list under queue
+2025-06-17 22:48:42,289 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: queue using linked list under queue
+2025-06-17 22:48:42,290 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: queue using linked list under queue
+2025-06-17 22:48:42,290 - NPTELScraper - INFO - Scraping NPTEL for subtopic: queue using linked list under queue
+2025-06-17 22:48:42,290 - YouTubeScraper - INFO - Searching YouTube for: queue queue using linked list tutorial
+2025-06-17 22:48:42,291 - YouTubeScraper - INFO - Found 3 videos for queue queue using linked list tutorial
+2025-06-17 22:48:43,461 - GFGScraper - WARNING - No search results found for queue using linked list on GFG
+2025-06-17 22:48:43,623 - W3SchoolsScraper - WARNING - No search results found for queue using linked list on W3Schools
+2025-06-17 22:48:43,624 - root - INFO - Processing and merging data from different sources
+2025-06-17 22:48:43,626 - DataProcessor - INFO - Processing scraped data
+2025-06-17 22:48:43,626 - DataProcessor - INFO - Processing scraped data
+2025-06-17 22:48:43,627 - root - INFO - Building knowledge graph
+2025-06-17 22:48:43,627 - GraphBuilder - INFO - Building knowledge graph
+2025-06-17 22:48:43,627 - GraphBuilder - INFO - Building knowledge graph
+2025-06-17 22:48:43,629 - root - INFO - Saving knowledge graph to file
+2025-06-17 22:48:43,640 - root - INFO - Knowledge graph saved to c:\Users\Ritesh Singh\OneDrive\Pictures\webs\dsa-scraper\python-scraper\output\dsa_graph.json
+2025-06-17 22:48:43,653 - root - INFO - Knowledge graph copied to frontend at c:\Users\Ritesh Singh\OneDrive\Pictures\webs\dsa-scraper\typescript-frontend\public\dsa_graph.json
+2025-06-17 22:48:43,655 - CLI - INFO - Scraping completed in 61.64 seconds
+2025-06-17 22:48:43,655 - CLI - INFO - Scraping completed in 61.64 seconds
+2025-06-17 22:48:43,656 - CLI - INFO - Found existing graph at c:\Users\Ritesh Singh\OneDrive\Pictures\webs\dsa-scraper\python-scraper\output\dsa_graph.json
+2025-06-17 22:48:43,656 - CLI - INFO - Found existing graph at c:\Users\Ritesh Singh\OneDrive\Pictures\webs\dsa-scraper\python-scraper\output\dsa_graph.json
+2025-06-17 22:48:43,700 - CLI - INFO - Existing graph has 4 concepts
+2025-06-17 22:48:43,700 - CLI - INFO - Existing graph has 4 concepts
+2025-06-17 22:48:43,701 - CLI - INFO - DSA graph successfully saved to c:\Users\Ritesh Singh\OneDrive\Pictures\webs\dsa-scraper\python-scraper\output\dsa_graph.json
+2025-06-17 22:48:43,701 - CLI - INFO - DSA graph successfully saved to c:\Users\Ritesh Singh\OneDrive\Pictures\webs\dsa-scraper\python-scraper\output\dsa_graph.json
+2025-06-17 22:48:43,713 - CLI - INFO - DSA graph copied to frontend at c:\Users\Ritesh Singh\OneDrive\Pictures\webs\dsa-scraper\typescript-frontend\public\dsa_graph.json
+2025-06-17 22:48:43,713 - CLI - INFO - DSA graph copied to frontend at c:\Users\Ritesh Singh\OneDrive\Pictures\webs\dsa-scraper\typescript-frontend\public\dsa_graph.json
+2025-06-17 23:07:37,938 - root - INFO - Starting DSA scraper
+2025-06-17 23:07:37,939 - root - INFO - Testing scraper: online_resources
+2025-06-17 23:07:37,939 - root - INFO - Testing with topic: array
+2025-06-17 23:07:37,940 - root - INFO - Testing Online Resources scraper...
+2025-06-17 23:07:37,941 - OnlineResourcesScraper - INFO - Scraping online resources for topic: array
+2025-06-17 23:07:39,962 - root - INFO - Online Resources result: {
+  "name": "Array",
+  "type": "topic",
+  "level": "beginner",
+  "description": "Arrays are linear data structures that store elements in contiguous memory locations, allowing random access through indices. They are fundamental in solving many algorithmic problems.",
+  "keywords": [
+    "indexing",
+    "algorithm",
+    "static array",
+    "dynamic array",
+    "contiguous memory",
+    "beginner",
+    "tutorial",
+    "problem",
+    "array",
+    "data structure",
+    "complexity"
+  ],
+  "prerequisites": [],
+  "topic_suggestions": [],
+  "resources": {
+    "videos": [
+      {
+        "title": "Coursera: Mastering Array Data Structures",
+        "url": "https://www.coursera.org/learn/array-data-structures",
+        "platform": "Coursera",
+        "instructor": "Stanford University",
+        "description": "Comprehensive course on array data structures and algorithms"
+      },
+      {
+        "title": "Coursera: Data Structures and Algorithms Specialization",
+        "url": "https://www.coursera.org/specializations/data-structures-algorithms",
+        "platform": "Coursera",
+        "instructor": "University of California San Diego",
+        "description": "Comprehensive course covering fundamental data structures and algorithms"
+      },
+      {
+        "title": "Coursera: Algorithms, Part I",
+        "url": "https://www.coursera.org/learn/algorithms-part1",
+        "platform": "Coursera",
+        "instructor": "Princeton University",
+        "description": "Learn the essential information about algorithms and data structures"
+      }
+    ],
+    "articles": [
+      {
+        "title": "Stack Overflow: How to implement an efficient array in Python?",
+        "url": "https://stackoverflow.com/questions/tagged/array",
+        "source": "Stack Overflow",
+        "votes": "194",
+        "description": "Discussion on implementing array data structures efficiently"
+      },
+      {
+        "title": "Stack Overflow: Time complexity comparison for array operations",
+        "url": "https://stackoverflow.com/questions/tagged/array+time-complexity",
+        "source": "Stack Overflow",
+        "votes": "49",
+        "description": "Analysis of time complexity for different array operations"
+      },
+      {
+        "title": "Stack Overflow: Common mistakes when using array in interviews",
+        "url": "https://stackoverflow.com/questions/tagged/array+interview",
+        "source": "Stack Overflow",
+        "votes": "52",
+        "description": "Tips and common pitfalls when using array in coding interviews"
+      },
+      {
+        "title": "Medium: Understanding Array Data Structures from First Principles",
+        "url": "https://medium.com/search?q=array%20data%20structure",
+        "source": "Medium",
+        "author": "Tech Algorithmist",
+        "description": "A deep dive into array data structures with visualizations and examples"
+      },
+      {
+        "title": "Medium: 5 Array Problems Every Developer Should Know",
+        "url": "https://medium.com/search?q=array%20problems",
+        "source": "Medium",
+        "author": "Coding Interviews",
+        "description": "Common array-based problems and their elegant solutions"
+      }
+    ]
+  }
+}
+2025-06-17 23:07:39,963 - root - INFO - Scraper testing completed.
+2025-06-17 23:07:51,345 - root - INFO - Starting DSA scraper
+2025-06-17 23:07:51,345 - root - INFO - Scraping data for topic: array
+2025-06-17 23:07:51,346 - GFGScraper - INFO - Scraping GFG for topic: array
+2025-06-17 23:07:51,368 - W3SchoolsScraper - INFO - Scraping W3Schools for topic: array
+2025-06-17 23:07:51,369 - LeetCodeScraper - INFO - Scraping LeetCode for topic: array
+2025-06-17 23:07:51,369 - NPTELScraper - INFO - Scraping NPTEL for topic: array
+2025-06-17 23:07:51,370 - YouTubeScraper - INFO - Searching YouTube for: array data structure algorithm tutorial
+2025-06-17 23:07:51,370 - YouTubeScraper - INFO - Found 3 videos for array data structure algorithm tutorial
+2025-06-17 23:07:51,371 - OnlineResourcesScraper - INFO - Scraping online resources for topic: array
+2025-06-17 23:07:51,787 - GFGScraper - WARNING - No search results found for array on GFG, trying direct URL approach
+2025-06-17 23:07:51,788 - GFGScraper - ERROR - Error scraping GFG for array: Session is closed
+2025-06-17 23:07:52,322 - W3SchoolsScraper - WARNING - No search results found for array on W3Schools
+2025-06-17 23:07:52,836 - root - INFO - Scraping data for subtopic: array initialization of array
+2025-06-17 23:07:52,837 - GFGScraper - INFO - Scraping GFG for subtopic: array initialization under array
+2025-06-17 23:07:52,837 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: array initialization under array
+2025-06-17 23:07:52,838 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: array initialization under array
+2025-06-17 23:07:52,838 - NPTELScraper - INFO - Scraping NPTEL for subtopic: array initialization under array
+2025-06-17 23:07:52,839 - YouTubeScraper - INFO - Searching YouTube for: array array initialization tutorial
+2025-06-17 23:07:52,839 - YouTubeScraper - INFO - Found 3 videos for array array initialization tutorial
+2025-06-17 23:07:52,839 - OnlineResourcesScraper - INFO - Scraping online resources for subtopic: array initialization (topic: array)
+2025-06-17 23:07:53,205 - GFGScraper - WARNING - No search results found for array initialization on GFG
+2025-06-17 23:07:53,371 - W3SchoolsScraper - WARNING - No search results found for array initialization on W3Schools
+2025-06-17 23:07:54,442 - root - INFO - Scraping data for subtopic: array operations of array
+2025-06-17 23:07:54,442 - GFGScraper - INFO - Scraping GFG for subtopic: array operations under array
+2025-06-17 23:07:54,442 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: array operations under array
+2025-06-17 23:07:54,443 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: array operations under array
+2025-06-17 23:07:54,443 - NPTELScraper - INFO - Scraping NPTEL for subtopic: array operations under array
+2025-06-17 23:07:54,443 - YouTubeScraper - INFO - Searching YouTube for: array array operations tutorial
+2025-06-17 23:07:54,444 - YouTubeScraper - INFO - Found 3 videos for array array operations tutorial
+2025-06-17 23:07:54,444 - OnlineResourcesScraper - INFO - Scraping online resources for subtopic: array operations (topic: array)
+2025-06-17 23:07:54,777 - GFGScraper - WARNING - No search results found for array operations on GFG
+2025-06-17 23:07:54,962 - W3SchoolsScraper - WARNING - No search results found for array operations on W3Schools
+2025-06-17 23:07:56,779 - root - INFO - Scraping data for subtopic: dynamic array of array
+2025-06-17 23:07:56,780 - GFGScraper - INFO - Scraping GFG for subtopic: dynamic array under array
+2025-06-17 23:07:56,780 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: dynamic array under array
+2025-06-17 23:07:56,780 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: dynamic array under array
+2025-06-17 23:07:56,782 - NPTELScraper - INFO - Scraping NPTEL for subtopic: dynamic array under array
+2025-06-17 23:07:56,782 - YouTubeScraper - INFO - Searching YouTube for: array dynamic array tutorial
+2025-06-17 23:07:56,782 - YouTubeScraper - INFO - Found 3 videos for array dynamic array tutorial
+2025-06-17 23:07:56,782 - OnlineResourcesScraper - INFO - Scraping online resources for subtopic: dynamic array (topic: array)
+2025-06-17 23:07:57,113 - GFGScraper - WARNING - No search results found for dynamic array on GFG
+2025-06-17 23:07:57,270 - W3SchoolsScraper - WARNING - No search results found for dynamic array on W3Schools
+2025-06-17 23:07:58,610 - root - INFO - Scraping data for subtopic: array manipulation of array
+2025-06-17 23:07:58,611 - GFGScraper - INFO - Scraping GFG for subtopic: array manipulation under array
+2025-06-17 23:07:58,612 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: array manipulation under array
+2025-06-17 23:07:58,613 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: array manipulation under array
+2025-06-17 23:07:58,613 - NPTELScraper - INFO - Scraping NPTEL for subtopic: array manipulation under array
+2025-06-17 23:07:58,613 - YouTubeScraper - INFO - Searching YouTube for: array array manipulation tutorial
+2025-06-17 23:07:58,614 - YouTubeScraper - INFO - Found 3 videos for array array manipulation tutorial
+2025-06-17 23:07:58,614 - OnlineResourcesScraper - INFO - Scraping online resources for subtopic: array manipulation (topic: array)
+2025-06-17 23:07:58,963 - GFGScraper - WARNING - No search results found for array manipulation on GFG
+2025-06-17 23:07:59,374 - W3SchoolsScraper - WARNING - No search results found for array manipulation on W3Schools
+2025-06-17 23:08:01,917 - root - INFO - Scraping data for subtopic: array searching of array
+2025-06-17 23:08:01,917 - GFGScraper - INFO - Scraping GFG for subtopic: array searching under array
+2025-06-17 23:08:01,918 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: array searching under array
+2025-06-17 23:08:01,919 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: array searching under array
+2025-06-17 23:08:01,919 - NPTELScraper - INFO - Scraping NPTEL for subtopic: array searching under array
+2025-06-17 23:08:01,920 - YouTubeScraper - INFO - Searching YouTube for: array array searching tutorial
+2025-06-17 23:08:01,920 - YouTubeScraper - INFO - Found 3 videos for array array searching tutorial
+2025-06-17 23:08:01,920 - OnlineResourcesScraper - INFO - Scraping online resources for subtopic: array searching (topic: array)
+2025-06-17 23:08:02,295 - GFGScraper - WARNING - No search results found for array searching on GFG
+2025-06-17 23:08:02,548 - W3SchoolsScraper - WARNING - No search results found for array searching on W3Schools
+2025-06-17 23:08:03,780 - root - INFO - Scraping data for subtopic: array sorting of array
+2025-06-17 23:08:03,781 - GFGScraper - INFO - Scraping GFG for subtopic: array sorting under array
+2025-06-17 23:08:03,781 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: array sorting under array
+2025-06-17 23:08:03,781 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: array sorting under array
+2025-06-17 23:08:03,782 - NPTELScraper - INFO - Scraping NPTEL for subtopic: array sorting under array
+2025-06-17 23:08:03,782 - YouTubeScraper - INFO - Searching YouTube for: array array sorting tutorial
+2025-06-17 23:08:03,782 - YouTubeScraper - INFO - Found 3 videos for array array sorting tutorial
+2025-06-17 23:08:03,782 - OnlineResourcesScraper - INFO - Scraping online resources for subtopic: array sorting (topic: array)
+2025-06-17 23:08:04,110 - GFGScraper - WARNING - No search results found for array sorting on GFG
+2025-06-17 23:08:04,293 - W3SchoolsScraper - WARNING - No search results found for array sorting on W3Schools
+2025-06-17 23:08:05,424 - root - INFO - Scraping data for subtopic: multidimensional arrays of array
+2025-06-17 23:08:05,425 - GFGScraper - INFO - Scraping GFG for subtopic: multidimensional arrays under array
+2025-06-17 23:08:05,426 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: multidimensional arrays under array
+2025-06-17 23:08:05,426 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: multidimensional arrays under array
+2025-06-17 23:08:05,427 - NPTELScraper - INFO - Scraping NPTEL for subtopic: multidimensional arrays under array
+2025-06-17 23:08:05,427 - YouTubeScraper - INFO - Searching YouTube for: array multidimensional arrays tutorial
+2025-06-17 23:08:05,427 - YouTubeScraper - INFO - Found 3 videos for array multidimensional arrays tutorial
+2025-06-17 23:08:05,427 - OnlineResourcesScraper - INFO - Scraping online resources for subtopic: multidimensional arrays (topic: array)
+2025-06-17 23:08:05,774 - GFGScraper - WARNING - No search results found for multidimensional arrays on GFG
+2025-06-17 23:08:05,951 - W3SchoolsScraper - WARNING - No search results found for multidimensional arrays on W3Schools
+2025-06-17 23:08:07,239 - root - INFO - Scraping data for subtopic: array rotation of array
+2025-06-17 23:08:07,239 - GFGScraper - INFO - Scraping GFG for subtopic: array rotation under array
+2025-06-17 23:08:07,240 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: array rotation under array
+2025-06-17 23:08:07,241 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: array rotation under array
+2025-06-17 23:08:07,242 - NPTELScraper - INFO - Scraping NPTEL for subtopic: array rotation under array
+2025-06-17 23:08:07,242 - YouTubeScraper - INFO - Searching YouTube for: array array rotation tutorial
+2025-06-17 23:08:07,242 - YouTubeScraper - INFO - Found 3 videos for array array rotation tutorial
+2025-06-17 23:08:07,243 - OnlineResourcesScraper - INFO - Scraping online resources for subtopic: array rotation (topic: array)
+2025-06-17 23:08:07,533 - GFGScraper - WARNING - No search results found for array rotation on GFG
+2025-06-17 23:08:07,724 - W3SchoolsScraper - WARNING - No search results found for array rotation on W3Schools
+2025-06-17 23:08:08,871 - root - INFO - Scraping data for subtopic: array traversal of array
+2025-06-17 23:08:08,872 - GFGScraper - INFO - Scraping GFG for subtopic: array traversal under array
+2025-06-17 23:08:08,872 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: array traversal under array
+2025-06-17 23:08:08,873 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: array traversal under array
+2025-06-17 23:08:08,873 - NPTELScraper - INFO - Scraping NPTEL for subtopic: array traversal under array
+2025-06-17 23:08:08,873 - YouTubeScraper - INFO - Searching YouTube for: array array traversal tutorial
+2025-06-17 23:08:08,873 - YouTubeScraper - INFO - Found 3 videos for array array traversal tutorial
+2025-06-17 23:08:08,873 - OnlineResourcesScraper - INFO - Scraping online resources for subtopic: array traversal (topic: array)
+2025-06-17 23:08:09,203 - GFGScraper - WARNING - No search results found for array traversal on GFG
+2025-06-17 23:08:09,367 - W3SchoolsScraper - WARNING - No search results found for array traversal on W3Schools
+2025-06-17 23:08:10,791 - root - INFO - Scraping data for subtopic: array algorithms of array
+2025-06-17 23:08:10,792 - GFGScraper - INFO - Scraping GFG for subtopic: array algorithms under array
+2025-06-17 23:08:10,792 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: array algorithms under array
+2025-06-17 23:08:10,793 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: array algorithms under array
+2025-06-17 23:08:10,793 - NPTELScraper - INFO - Scraping NPTEL for subtopic: array algorithms under array
+2025-06-17 23:08:10,793 - YouTubeScraper - INFO - Searching YouTube for: array array algorithms tutorial
+2025-06-17 23:08:10,793 - YouTubeScraper - INFO - Found 3 videos for array array algorithms tutorial
+2025-06-17 23:08:10,794 - OnlineResourcesScraper - INFO - Scraping online resources for subtopic: array algorithms (topic: array)
+2025-06-17 23:08:11,156 - GFGScraper - WARNING - No search results found for array algorithms on GFG
+2025-06-17 23:08:11,341 - W3SchoolsScraper - WARNING - No search results found for array algorithms on W3Schools
+2025-06-17 23:08:12,456 - root - INFO - Scraping data for topic: stack
+2025-06-17 23:08:12,457 - GFGScraper - INFO - Scraping GFG for topic: stack
+2025-06-17 23:08:12,458 - W3SchoolsScraper - INFO - Scraping W3Schools for topic: stack
+2025-06-17 23:08:12,459 - LeetCodeScraper - INFO - Scraping LeetCode for topic: stack
+2025-06-17 23:08:12,459 - NPTELScraper - INFO - Scraping NPTEL for topic: stack
+2025-06-17 23:08:12,459 - YouTubeScraper - INFO - Searching YouTube for: stack data structure algorithm tutorial
+2025-06-17 23:08:12,460 - YouTubeScraper - INFO - Found 3 videos for stack data structure algorithm tutorial
+2025-06-17 23:08:12,460 - OnlineResourcesScraper - INFO - Scraping online resources for topic: stack
+2025-06-17 23:08:12,817 - GFGScraper - WARNING - No search results found for stack on GFG, trying direct URL approach
+2025-06-17 23:08:12,817 - GFGScraper - ERROR - Error scraping GFG for stack: Session is closed
+2025-06-17 23:08:12,962 - W3SchoolsScraper - WARNING - No search results found for stack on W3Schools
+2025-06-17 23:08:14,496 - root - INFO - Scraping data for subtopic: stack operations of stack
+2025-06-17 23:08:14,497 - GFGScraper - INFO - Scraping GFG for subtopic: stack operations under stack
+2025-06-17 23:08:14,498 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: stack operations under stack
+2025-06-17 23:08:14,498 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: stack operations under stack
+2025-06-17 23:08:14,498 - NPTELScraper - INFO - Scraping NPTEL for subtopic: stack operations under stack
+2025-06-17 23:08:14,498 - YouTubeScraper - INFO - Searching YouTube for: stack stack operations tutorial
+2025-06-17 23:08:14,498 - YouTubeScraper - INFO - Found 3 videos for stack stack operations tutorial
+2025-06-17 23:08:14,499 - OnlineResourcesScraper - INFO - Scraping online resources for subtopic: stack operations (topic: stack)
+2025-06-17 23:08:14,836 - GFGScraper - WARNING - No search results found for stack operations on GFG
+2025-06-17 23:08:15,299 - W3SchoolsScraper - WARNING - No search results found for stack operations on W3Schools
+2025-06-17 23:08:16,467 - root - INFO - Scraping data for subtopic: stack implementation of stack
+2025-06-17 23:08:16,468 - GFGScraper - INFO - Scraping GFG for subtopic: stack implementation under stack
+2025-06-17 23:08:16,468 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: stack implementation under stack
+2025-06-17 23:08:16,470 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: stack implementation under stack
+2025-06-17 23:08:16,470 - NPTELScraper - INFO - Scraping NPTEL for subtopic: stack implementation under stack
+2025-06-17 23:08:16,470 - YouTubeScraper - INFO - Searching YouTube for: stack stack implementation tutorial
+2025-06-17 23:08:16,470 - YouTubeScraper - INFO - Found 3 videos for stack stack implementation tutorial
+2025-06-17 23:08:16,471 - OnlineResourcesScraper - INFO - Scraping online resources for subtopic: stack implementation (topic: stack)
+2025-06-17 23:08:16,835 - GFGScraper - WARNING - No search results found for stack implementation on GFG
+2025-06-17 23:08:17,009 - W3SchoolsScraper - WARNING - No search results found for stack implementation on W3Schools
+2025-06-17 23:08:18,203 - root - INFO - Scraping data for subtopic: stack applications of stack
+2025-06-17 23:08:18,203 - GFGScraper - INFO - Scraping GFG for subtopic: stack applications under stack
+2025-06-17 23:08:18,203 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: stack applications under stack
+2025-06-17 23:08:18,203 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: stack applications under stack
+2025-06-17 23:08:18,205 - NPTELScraper - INFO - Scraping NPTEL for subtopic: stack applications under stack
+2025-06-17 23:08:18,205 - YouTubeScraper - INFO - Searching YouTube for: stack stack applications tutorial
+2025-06-17 23:08:18,205 - YouTubeScraper - INFO - Found 3 videos for stack stack applications tutorial
+2025-06-17 23:08:18,205 - OnlineResourcesScraper - INFO - Scraping online resources for subtopic: stack applications (topic: stack)
+2025-06-17 23:08:18,562 - GFGScraper - WARNING - No search results found for stack applications on GFG
+2025-06-17 23:08:19,171 - W3SchoolsScraper - WARNING - No search results found for stack applications on W3Schools
+2025-06-17 23:08:20,004 - root - INFO - Scraping data for subtopic: stack algorithms of stack
+2025-06-17 23:08:20,005 - GFGScraper - INFO - Scraping GFG for subtopic: stack algorithms under stack
+2025-06-17 23:08:20,005 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: stack algorithms under stack
+2025-06-17 23:08:20,006 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: stack algorithms under stack
+2025-06-17 23:08:20,006 - NPTELScraper - INFO - Scraping NPTEL for subtopic: stack algorithms under stack
+2025-06-17 23:08:20,006 - YouTubeScraper - INFO - Searching YouTube for: stack stack algorithms tutorial
+2025-06-17 23:08:20,007 - YouTubeScraper - INFO - Found 3 videos for stack stack algorithms tutorial
+2025-06-17 23:08:20,007 - OnlineResourcesScraper - INFO - Scraping online resources for subtopic: stack algorithms (topic: stack)
+2025-06-17 23:08:20,545 - GFGScraper - WARNING - No search results found for stack algorithms on GFG
+2025-06-17 23:08:20,629 - W3SchoolsScraper - WARNING - No search results found for stack algorithms on W3Schools
+2025-06-17 23:08:22,099 - root - INFO - Scraping data for subtopic: expression evaluation of stack
+2025-06-17 23:08:22,100 - GFGScraper - INFO - Scraping GFG for subtopic: expression evaluation under stack
+2025-06-17 23:08:22,100 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: expression evaluation under stack
+2025-06-17 23:08:22,101 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: expression evaluation under stack
+2025-06-17 23:08:22,101 - NPTELScraper - INFO - Scraping NPTEL for subtopic: expression evaluation under stack
+2025-06-17 23:08:22,101 - YouTubeScraper - INFO - Searching YouTube for: stack expression evaluation tutorial
+2025-06-17 23:08:22,102 - YouTubeScraper - INFO - Found 3 videos for stack expression evaluation tutorial
+2025-06-17 23:08:22,102 - OnlineResourcesScraper - INFO - Scraping online resources for subtopic: expression evaluation (topic: stack)
+2025-06-17 23:08:22,404 - GFGScraper - WARNING - No search results found for expression evaluation on GFG
+2025-06-17 23:08:22,571 - W3SchoolsScraper - WARNING - No search results found for expression evaluation on W3Schools
+2025-06-17 23:08:24,175 - root - INFO - Scraping data for subtopic: balanced parentheses of stack
+2025-06-17 23:08:24,175 - GFGScraper - INFO - Scraping GFG for subtopic: balanced parentheses under stack
+2025-06-17 23:08:24,176 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: balanced parentheses under stack
+2025-06-17 23:08:24,176 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: balanced parentheses under stack
+2025-06-17 23:08:24,176 - NPTELScraper - INFO - Scraping NPTEL for subtopic: balanced parentheses under stack
+2025-06-17 23:08:24,177 - YouTubeScraper - INFO - Searching YouTube for: stack balanced parentheses tutorial
+2025-06-17 23:08:24,177 - YouTubeScraper - INFO - Found 3 videos for stack balanced parentheses tutorial
+2025-06-17 23:08:24,177 - OnlineResourcesScraper - INFO - Scraping online resources for subtopic: balanced parentheses (topic: stack)
+2025-06-17 23:08:24,509 - GFGScraper - WARNING - No search results found for balanced parentheses on GFG
+2025-06-17 23:08:25,036 - W3SchoolsScraper - WARNING - No search results found for balanced parentheses on W3Schools
+2025-06-17 23:08:25,939 - root - INFO - Scraping data for subtopic: stack using arrays of stack
+2025-06-17 23:08:25,939 - GFGScraper - INFO - Scraping GFG for subtopic: stack using arrays under stack
+2025-06-17 23:08:25,940 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: stack using arrays under stack
+2025-06-17 23:08:25,940 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: stack using arrays under stack
+2025-06-17 23:08:25,941 - NPTELScraper - INFO - Scraping NPTEL for subtopic: stack using arrays under stack
+2025-06-17 23:08:25,941 - YouTubeScraper - INFO - Searching YouTube for: stack stack using arrays tutorial
+2025-06-17 23:08:25,941 - YouTubeScraper - INFO - Found 3 videos for stack stack using arrays tutorial
+2025-06-17 23:08:25,941 - OnlineResourcesScraper - INFO - Scraping online resources for subtopic: stack using arrays (topic: stack)
+2025-06-17 23:08:26,281 - GFGScraper - WARNING - No search results found for stack using arrays on GFG
+2025-06-17 23:08:26,432 - W3SchoolsScraper - WARNING - No search results found for stack using arrays on W3Schools
+2025-06-17 23:08:27,590 - root - INFO - Scraping data for subtopic: stack using linked list of stack
+2025-06-17 23:08:27,591 - GFGScraper - INFO - Scraping GFG for subtopic: stack using linked list under stack
+2025-06-17 23:08:27,591 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: stack using linked list under stack
+2025-06-17 23:08:27,592 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: stack using linked list under stack
+2025-06-17 23:08:27,592 - NPTELScraper - INFO - Scraping NPTEL for subtopic: stack using linked list under stack
+2025-06-17 23:08:27,593 - YouTubeScraper - INFO - Searching YouTube for: stack stack using linked list tutorial
+2025-06-17 23:08:27,593 - YouTubeScraper - INFO - Found 3 videos for stack stack using linked list tutorial
+2025-06-17 23:08:27,593 - OnlineResourcesScraper - INFO - Scraping online resources for subtopic: stack using linked list (topic: stack)
+2025-06-17 23:08:27,913 - GFGScraper - WARNING - No search results found for stack using linked list on GFG
+2025-06-17 23:08:28,099 - W3SchoolsScraper - WARNING - No search results found for stack using linked list on W3Schools
+2025-06-17 23:08:29,922 - root - INFO - Scraping data for topic: queue
+2025-06-17 23:08:29,922 - GFGScraper - INFO - Scraping GFG for topic: queue
+2025-06-17 23:08:29,923 - W3SchoolsScraper - INFO - Scraping W3Schools for topic: queue
+2025-06-17 23:08:29,923 - LeetCodeScraper - INFO - Scraping LeetCode for topic: queue
+2025-06-17 23:08:29,923 - NPTELScraper - INFO - Scraping NPTEL for topic: queue
+2025-06-17 23:08:29,925 - YouTubeScraper - INFO - Searching YouTube for: queue data structure algorithm tutorial
+2025-06-17 23:08:29,925 - YouTubeScraper - INFO - Found 3 videos for queue data structure algorithm tutorial
+2025-06-17 23:08:29,925 - OnlineResourcesScraper - INFO - Scraping online resources for topic: queue
+2025-06-17 23:08:30,240 - GFGScraper - WARNING - No search results found for queue on GFG, trying direct URL approach
+2025-06-17 23:08:30,240 - GFGScraper - ERROR - Error scraping GFG for queue: Session is closed
+2025-06-17 23:08:30,350 - W3SchoolsScraper - WARNING - No search results found for queue on W3Schools
+2025-06-17 23:08:32,240 - root - INFO - Scraping data for subtopic: queue operations of queue
+2025-06-17 23:08:32,240 - GFGScraper - INFO - Scraping GFG for subtopic: queue operations under queue
+2025-06-17 23:08:32,241 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: queue operations under queue
+2025-06-17 23:08:32,242 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: queue operations under queue
+2025-06-17 23:08:32,242 - NPTELScraper - INFO - Scraping NPTEL for subtopic: queue operations under queue
+2025-06-17 23:08:32,243 - YouTubeScraper - INFO - Searching YouTube for: queue queue operations tutorial
+2025-06-17 23:08:32,243 - YouTubeScraper - INFO - Found 3 videos for queue queue operations tutorial
+2025-06-17 23:08:32,243 - OnlineResourcesScraper - INFO - Scraping online resources for subtopic: queue operations (topic: queue)
+2025-06-17 23:08:32,578 - GFGScraper - WARNING - No search results found for queue operations on GFG
+2025-06-17 23:08:32,732 - W3SchoolsScraper - WARNING - No search results found for queue operations on W3Schools
+2025-06-17 23:08:33,886 - root - INFO - Scraping data for subtopic: queue implementation of queue
+2025-06-17 23:08:33,887 - GFGScraper - INFO - Scraping GFG for subtopic: queue implementation under queue
+2025-06-17 23:08:33,887 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: queue implementation under queue
+2025-06-17 23:08:33,888 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: queue implementation under queue
+2025-06-17 23:08:33,888 - NPTELScraper - INFO - Scraping NPTEL for subtopic: queue implementation under queue
+2025-06-17 23:08:33,889 - YouTubeScraper - INFO - Searching YouTube for: queue queue implementation tutorial
+2025-06-17 23:08:33,889 - YouTubeScraper - INFO - Found 3 videos for queue queue implementation tutorial
+2025-06-17 23:08:33,890 - OnlineResourcesScraper - INFO - Scraping online resources for subtopic: queue implementation (topic: queue)
+2025-06-17 23:08:34,189 - GFGScraper - WARNING - No search results found for queue implementation on GFG
+2025-06-17 23:08:34,384 - W3SchoolsScraper - WARNING - No search results found for queue implementation on W3Schools
+2025-06-17 23:08:35,616 - root - INFO - Scraping data for subtopic: queue applications of queue
+2025-06-17 23:08:35,616 - GFGScraper - INFO - Scraping GFG for subtopic: queue applications under queue
+2025-06-17 23:08:35,618 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: queue applications under queue
+2025-06-17 23:08:35,618 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: queue applications under queue
+2025-06-17 23:08:35,619 - NPTELScraper - INFO - Scraping NPTEL for subtopic: queue applications under queue
+2025-06-17 23:08:35,619 - YouTubeScraper - INFO - Searching YouTube for: queue queue applications tutorial
+2025-06-17 23:08:35,620 - YouTubeScraper - INFO - Found 3 videos for queue queue applications tutorial
+2025-06-17 23:08:35,620 - OnlineResourcesScraper - INFO - Scraping online resources for subtopic: queue applications (topic: queue)
+2025-06-17 23:08:35,966 - GFGScraper - WARNING - No search results found for queue applications on GFG
+2025-06-17 23:08:36,148 - W3SchoolsScraper - WARNING - No search results found for queue applications on W3Schools
+2025-06-17 23:08:37,539 - root - INFO - Scraping data for subtopic: queue algorithms of queue
+2025-06-17 23:08:37,539 - GFGScraper - INFO - Scraping GFG for subtopic: queue algorithms under queue
+2025-06-17 23:08:37,540 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: queue algorithms under queue
+2025-06-17 23:08:37,540 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: queue algorithms under queue
+2025-06-17 23:08:37,541 - NPTELScraper - INFO - Scraping NPTEL for subtopic: queue algorithms under queue
+2025-06-17 23:08:37,541 - YouTubeScraper - INFO - Searching YouTube for: queue queue algorithms tutorial
+2025-06-17 23:08:37,541 - YouTubeScraper - INFO - Found 3 videos for queue queue algorithms tutorial
+2025-06-17 23:08:37,541 - OnlineResourcesScraper - INFO - Scraping online resources for subtopic: queue algorithms (topic: queue)
+2025-06-17 23:08:37,881 - GFGScraper - WARNING - No search results found for queue algorithms on GFG
+2025-06-17 23:08:38,026 - W3SchoolsScraper - WARNING - No search results found for queue algorithms on W3Schools
+2025-06-17 23:08:39,394 - root - INFO - Scraping data for subtopic: circular queue of queue
+2025-06-17 23:08:39,395 - GFGScraper - INFO - Scraping GFG for subtopic: circular queue under queue
+2025-06-17 23:08:39,395 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: circular queue under queue
+2025-06-17 23:08:39,395 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: circular queue under queue
+2025-06-17 23:08:39,395 - NPTELScraper - INFO - Scraping NPTEL for subtopic: circular queue under queue
+2025-06-17 23:08:39,395 - YouTubeScraper - INFO - Searching YouTube for: queue circular queue tutorial
+2025-06-17 23:08:39,397 - YouTubeScraper - INFO - Found 3 videos for queue circular queue tutorial
+2025-06-17 23:08:39,397 - OnlineResourcesScraper - INFO - Scraping online resources for subtopic: circular queue (topic: queue)
+2025-06-17 23:08:39,694 - GFGScraper - WARNING - No search results found for circular queue on GFG
+2025-06-17 23:08:40,076 - W3SchoolsScraper - WARNING - No search results found for circular queue on W3Schools
+2025-06-17 23:08:41,453 - root - INFO - Scraping data for subtopic: priority queue of queue
+2025-06-17 23:08:41,453 - GFGScraper - INFO - Scraping GFG for subtopic: priority queue under queue
+2025-06-17 23:08:41,454 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: priority queue under queue
+2025-06-17 23:08:41,454 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: priority queue under queue
+2025-06-17 23:08:41,454 - NPTELScraper - INFO - Scraping NPTEL for subtopic: priority queue under queue
+2025-06-17 23:08:41,454 - YouTubeScraper - INFO - Searching YouTube for: queue priority queue tutorial
+2025-06-17 23:08:41,454 - YouTubeScraper - INFO - Found 3 videos for queue priority queue tutorial
+2025-06-17 23:08:41,455 - OnlineResourcesScraper - INFO - Scraping online resources for subtopic: priority queue (topic: queue)
+2025-06-17 23:08:41,782 - GFGScraper - WARNING - No search results found for priority queue on GFG
+2025-06-17 23:08:41,954 - W3SchoolsScraper - WARNING - No search results found for priority queue on W3Schools
+2025-06-17 23:08:43,010 - root - INFO - Scraping data for subtopic: deque of queue
+2025-06-17 23:08:43,010 - GFGScraper - INFO - Scraping GFG for subtopic: deque under queue
+2025-06-17 23:08:43,011 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: deque under queue
+2025-06-17 23:08:43,011 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: deque under queue
+2025-06-17 23:08:43,011 - NPTELScraper - INFO - Scraping NPTEL for subtopic: deque under queue
+2025-06-17 23:08:43,011 - YouTubeScraper - INFO - Searching YouTube for: queue deque tutorial
+2025-06-17 23:08:43,011 - YouTubeScraper - INFO - Found 3 videos for queue deque tutorial
+2025-06-17 23:08:43,012 - OnlineResourcesScraper - INFO - Scraping online resources for subtopic: deque (topic: queue)
+2025-06-17 23:08:43,366 - GFGScraper - WARNING - No search results found for deque on GFG
+2025-06-17 23:08:43,513 - W3SchoolsScraper - WARNING - No search results found for deque on W3Schools
+2025-06-17 23:08:45,001 - root - INFO - Scraping data for subtopic: queue using arrays of queue
+2025-06-17 23:08:45,003 - GFGScraper - INFO - Scraping GFG for subtopic: queue using arrays under queue
+2025-06-17 23:08:45,003 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: queue using arrays under queue
+2025-06-17 23:08:45,003 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: queue using arrays under queue
+2025-06-17 23:08:45,003 - NPTELScraper - INFO - Scraping NPTEL for subtopic: queue using arrays under queue
+2025-06-17 23:08:45,003 - YouTubeScraper - INFO - Searching YouTube for: queue queue using arrays tutorial
+2025-06-17 23:08:45,003 - YouTubeScraper - INFO - Found 3 videos for queue queue using arrays tutorial
+2025-06-17 23:08:45,004 - OnlineResourcesScraper - INFO - Scraping online resources for subtopic: queue using arrays (topic: queue)
+2025-06-17 23:08:45,405 - GFGScraper - WARNING - No search results found for queue using arrays on GFG
+2025-06-17 23:08:45,882 - W3SchoolsScraper - WARNING - No search results found for queue using arrays on W3Schools
+2025-06-17 23:08:47,928 - root - INFO - Scraping data for subtopic: queue using linked list of queue
+2025-06-17 23:08:47,929 - GFGScraper - INFO - Scraping GFG for subtopic: queue using linked list under queue
+2025-06-17 23:08:47,930 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: queue using linked list under queue
+2025-06-17 23:08:47,930 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: queue using linked list under queue
+2025-06-17 23:08:47,930 - NPTELScraper - INFO - Scraping NPTEL for subtopic: queue using linked list under queue
+2025-06-17 23:08:47,930 - YouTubeScraper - INFO - Searching YouTube for: queue queue using linked list tutorial
+2025-06-17 23:08:47,930 - YouTubeScraper - INFO - Found 3 videos for queue queue using linked list tutorial
+2025-06-17 23:08:47,930 - OnlineResourcesScraper - INFO - Scraping online resources for subtopic: queue using linked list (topic: queue)
+2025-06-17 23:08:48,254 - GFGScraper - WARNING - No search results found for queue using linked list on GFG
+2025-06-17 23:08:48,361 - W3SchoolsScraper - WARNING - No search results found for queue using linked list on W3Schools
+2025-06-17 23:08:49,712 - root - INFO - Scraping data for topic: linked list
+2025-06-17 23:08:49,712 - GFGScraper - INFO - Scraping GFG for topic: linked list
+2025-06-17 23:08:49,713 - W3SchoolsScraper - INFO - Scraping W3Schools for topic: linked list
+2025-06-17 23:08:49,713 - LeetCodeScraper - INFO - Scraping LeetCode for topic: linked list
+2025-06-17 23:08:49,714 - NPTELScraper - INFO - Scraping NPTEL for topic: linked list
+2025-06-17 23:08:49,714 - YouTubeScraper - INFO - Searching YouTube for: linked list data structure algorithm tutorial
+2025-06-17 23:08:49,714 - YouTubeScraper - INFO - Found 3 videos for linked list data structure algorithm tutorial
+2025-06-17 23:08:49,714 - OnlineResourcesScraper - INFO - Scraping online resources for topic: linked list
+2025-06-17 23:08:50,051 - GFGScraper - WARNING - No search results found for linked list on GFG, trying direct URL approach
+2025-06-17 23:08:50,051 - GFGScraper - ERROR - Error scraping GFG for linked list: Session is closed
+2025-06-17 23:08:50,325 - W3SchoolsScraper - WARNING - No search results found for linked list on W3Schools
+2025-06-17 23:08:51,507 - root - INFO - Scraping data for subtopic: singly linked list of linked list
+2025-06-17 23:08:51,507 - GFGScraper - INFO - Scraping GFG for subtopic: singly linked list under linked list
+2025-06-17 23:08:51,508 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: singly linked list under linked list
+2025-06-17 23:08:51,508 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: singly linked list under linked list
+2025-06-17 23:08:51,509 - NPTELScraper - INFO - Scraping NPTEL for subtopic: singly linked list under linked list
+2025-06-17 23:08:51,509 - YouTubeScraper - INFO - Searching YouTube for: linked list singly linked list tutorial
+2025-06-17 23:08:51,509 - YouTubeScraper - INFO - Found 3 videos for linked list singly linked list tutorial
+2025-06-17 23:08:51,509 - OnlineResourcesScraper - INFO - Scraping online resources for subtopic: singly linked list (topic: linked list)
+2025-06-17 23:08:51,882 - GFGScraper - WARNING - No search results found for singly linked list on GFG
+2025-06-17 23:08:52,022 - W3SchoolsScraper - WARNING - No search results found for singly linked list on W3Schools
+2025-06-17 23:08:53,904 - root - INFO - Scraping data for subtopic: doubly linked list of linked list
+2025-06-17 23:08:53,905 - GFGScraper - INFO - Scraping GFG for subtopic: doubly linked list under linked list
+2025-06-17 23:08:53,905 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: doubly linked list under linked list
+2025-06-17 23:08:53,905 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: doubly linked list under linked list
+2025-06-17 23:08:53,906 - NPTELScraper - INFO - Scraping NPTEL for subtopic: doubly linked list under linked list
+2025-06-17 23:08:53,906 - YouTubeScraper - INFO - Searching YouTube for: linked list doubly linked list tutorial
+2025-06-17 23:08:53,906 - YouTubeScraper - INFO - Found 3 videos for linked list doubly linked list tutorial
+2025-06-17 23:08:53,906 - OnlineResourcesScraper - INFO - Scraping online resources for subtopic: doubly linked list (topic: linked list)
+2025-06-17 23:08:54,202 - GFGScraper - WARNING - No search results found for doubly linked list on GFG
+2025-06-17 23:08:54,407 - W3SchoolsScraper - WARNING - No search results found for doubly linked list on W3Schools
+2025-06-17 23:08:55,764 - root - INFO - Scraping data for subtopic: circular linked list of linked list
+2025-06-17 23:08:55,765 - GFGScraper - INFO - Scraping GFG for subtopic: circular linked list under linked list
+2025-06-17 23:08:55,765 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: circular linked list under linked list
+2025-06-17 23:08:55,766 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: circular linked list under linked list
+2025-06-17 23:08:55,766 - NPTELScraper - INFO - Scraping NPTEL for subtopic: circular linked list under linked list
+2025-06-17 23:08:55,766 - YouTubeScraper - INFO - Searching YouTube for: linked list circular linked list tutorial
+2025-06-17 23:08:55,766 - YouTubeScraper - INFO - Found 3 videos for linked list circular linked list tutorial
+2025-06-17 23:08:55,766 - OnlineResourcesScraper - INFO - Scraping online resources for subtopic: circular linked list (topic: linked list)
+2025-06-17 23:08:56,150 - GFGScraper - WARNING - No search results found for circular linked list on GFG
+2025-06-17 23:08:56,275 - W3SchoolsScraper - WARNING - No search results found for circular linked list on W3Schools
+2025-06-17 23:08:58,301 - root - INFO - Scraping data for subtopic: linked list operations of linked list
+2025-06-17 23:08:58,301 - GFGScraper - INFO - Scraping GFG for subtopic: linked list operations under linked list
+2025-06-17 23:08:58,302 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: linked list operations under linked list
+2025-06-17 23:08:58,302 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: linked list operations under linked list
+2025-06-17 23:08:58,303 - NPTELScraper - INFO - Scraping NPTEL for subtopic: linked list operations under linked list
+2025-06-17 23:08:58,303 - YouTubeScraper - INFO - Searching YouTube for: linked list linked list operations tutorial
+2025-06-17 23:08:58,303 - YouTubeScraper - INFO - Found 3 videos for linked list linked list operations tutorial
+2025-06-17 23:08:58,303 - OnlineResourcesScraper - INFO - Scraping online resources for subtopic: linked list operations (topic: linked list)
+2025-06-17 23:08:58,581 - GFGScraper - WARNING - No search results found for linked list operations on GFG
+2025-06-17 23:08:58,779 - W3SchoolsScraper - WARNING - No search results found for linked list operations on W3Schools
+2025-06-17 23:09:00,565 - root - INFO - Scraping data for subtopic: linked list traversal of linked list
+2025-06-17 23:09:00,566 - GFGScraper - INFO - Scraping GFG for subtopic: linked list traversal under linked list
+2025-06-17 23:09:00,568 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: linked list traversal under linked list
+2025-06-17 23:09:00,569 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: linked list traversal under linked list
+2025-06-17 23:09:00,570 - NPTELScraper - INFO - Scraping NPTEL for subtopic: linked list traversal under linked list
+2025-06-17 23:09:00,570 - YouTubeScraper - INFO - Searching YouTube for: linked list linked list traversal tutorial
+2025-06-17 23:09:00,570 - YouTubeScraper - INFO - Found 3 videos for linked list linked list traversal tutorial
+2025-06-17 23:09:00,570 - OnlineResourcesScraper - INFO - Scraping online resources for subtopic: linked list traversal (topic: linked list)
+2025-06-17 23:09:00,892 - GFGScraper - WARNING - No search results found for linked list traversal on GFG
+2025-06-17 23:09:01,090 - W3SchoolsScraper - WARNING - No search results found for linked list traversal on W3Schools
+2025-06-17 23:09:02,126 - root - INFO - Scraping data for subtopic: linked list reversal of linked list
+2025-06-17 23:09:02,126 - GFGScraper - INFO - Scraping GFG for subtopic: linked list reversal under linked list
+2025-06-17 23:09:02,127 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: linked list reversal under linked list
+2025-06-17 23:09:02,127 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: linked list reversal under linked list
+2025-06-17 23:09:02,127 - NPTELScraper - INFO - Scraping NPTEL for subtopic: linked list reversal under linked list
+2025-06-17 23:09:02,128 - YouTubeScraper - INFO - Searching YouTube for: linked list linked list reversal tutorial
+2025-06-17 23:09:02,128 - YouTubeScraper - INFO - Found 3 videos for linked list linked list reversal tutorial
+2025-06-17 23:09:02,128 - OnlineResourcesScraper - INFO - Scraping online resources for subtopic: linked list reversal (topic: linked list)
+2025-06-17 23:09:02,443 - GFGScraper - WARNING - No search results found for linked list reversal on GFG
+2025-06-17 23:09:02,863 - W3SchoolsScraper - WARNING - No search results found for linked list reversal on W3Schools
+2025-06-17 23:09:03,903 - root - INFO - Scraping data for subtopic: linked list insertion of linked list
+2025-06-17 23:09:03,903 - GFGScraper - INFO - Scraping GFG for subtopic: linked list insertion under linked list
+2025-06-17 23:09:03,904 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: linked list insertion under linked list
+2025-06-17 23:09:03,904 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: linked list insertion under linked list
+2025-06-17 23:09:03,905 - NPTELScraper - INFO - Scraping NPTEL for subtopic: linked list insertion under linked list
+2025-06-17 23:09:03,905 - YouTubeScraper - INFO - Searching YouTube for: linked list linked list insertion tutorial
+2025-06-17 23:09:03,905 - YouTubeScraper - INFO - Found 3 videos for linked list linked list insertion tutorial
+2025-06-17 23:09:03,905 - OnlineResourcesScraper - INFO - Scraping online resources for subtopic: linked list insertion (topic: linked list)
+2025-06-17 23:09:04,270 - GFGScraper - WARNING - No search results found for linked list insertion on GFG
+2025-06-17 23:09:04,448 - W3SchoolsScraper - WARNING - No search results found for linked list insertion on W3Schools
+2025-06-17 23:09:05,849 - root - INFO - Scraping data for subtopic: linked list deletion of linked list
+2025-06-17 23:09:05,849 - GFGScraper - INFO - Scraping GFG for subtopic: linked list deletion under linked list
+2025-06-17 23:09:05,849 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: linked list deletion under linked list
+2025-06-17 23:09:05,850 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: linked list deletion under linked list
+2025-06-17 23:09:05,850 - NPTELScraper - INFO - Scraping NPTEL for subtopic: linked list deletion under linked list
+2025-06-17 23:09:05,850 - YouTubeScraper - INFO - Searching YouTube for: linked list linked list deletion tutorial
+2025-06-17 23:09:05,850 - YouTubeScraper - INFO - Found 3 videos for linked list linked list deletion tutorial
+2025-06-17 23:09:05,850 - OnlineResourcesScraper - INFO - Scraping online resources for subtopic: linked list deletion (topic: linked list)
+2025-06-17 23:09:06,171 - GFGScraper - WARNING - No search results found for linked list deletion on GFG
+2025-06-17 23:09:06,344 - W3SchoolsScraper - WARNING - No search results found for linked list deletion on W3Schools
+2025-06-17 23:09:08,349 - root - INFO - Scraping data for subtopic: linked list algorithms of linked list
+2025-06-17 23:09:08,350 - GFGScraper - INFO - Scraping GFG for subtopic: linked list algorithms under linked list
+2025-06-17 23:09:08,350 - W3SchoolsScraper - INFO - Scraping W3Schools for subtopic: linked list algorithms under linked list
+2025-06-17 23:09:08,351 - LeetCodeScraper - INFO - Scraping LeetCode for subtopic: linked list algorithms under linked list
+2025-06-17 23:09:08,351 - NPTELScraper - INFO - Scraping NPTEL for subtopic: linked list algorithms under linked list
+2025-06-17 23:09:08,351 - YouTubeScraper - INFO - Searching YouTube for: linked list linked list algorithms tutorial
+2025-06-17 23:09:08,352 - YouTubeScraper - INFO - Found 3 videos for linked list linked list algorithms tutorial
+2025-06-17 23:09:08,352 - OnlineResourcesScraper - INFO - Scraping online resources for subtopic: linked list algorithms (topic: linked list)
+2025-06-17 23:09:08,722 - GFGScraper - WARNING - No search results found for linked list algorithms on GFG
+2025-06-17 23:09:08,849 - W3SchoolsScraper - WARNING - No search results found for linked list algorithms on W3Schools
+2025-06-17 23:09:10,183 - root - INFO - Processing and merging data from different sources
+2025-06-17 23:09:10,184 - DataProcessor - INFO - Processing scraped data
+2025-06-17 23:09:10,184 - DataProcessor - INFO - Processing scraped data
+2025-06-17 23:09:10,185 - root - INFO - Building knowledge graph
+2025-06-17 23:09:10,188 - GraphBuilder - INFO - Building knowledge graph
+2025-06-17 23:09:10,188 - GraphBuilder - INFO - Building knowledge graph
+2025-06-17 23:09:10,189 - root - INFO - Saving knowledge graph to file
+2025-06-17 23:09:10,205 - root - INFO - Knowledge graph saved to C:\Users\Ritesh Singh\OneDrive\Pictures\webs\dsa-scraper\python-scraper\output\dsa_graph.json
+2025-06-17 23:09:10,223 - root - INFO - Knowledge graph copied to frontend at C:\Users\Ritesh Singh\OneDrive\Pictures\webs\dsa-scraper\typescript-frontend\public\dsa_graph.json

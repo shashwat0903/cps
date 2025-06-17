@@ -1,38 +1,137 @@
-# DSA Knowledge Graph Scraper
+# DSA Knowledge Graph System
 
-This directory contains a comprehensive DSA (Data Structures and Algorithms) knowledge graph generator system. It scrapes information from multiple educational resources, creates a structured knowledge graph, and provides visualization capabilities.
+A comprehensive system for scraping, processing, and visualizing Data Structures and Algorithms (DSA) topics and their relationships.
 
-## Components
+## Overview
 
-- `dsa-scraper/` - The main Python scraper module that collects DSA information from various sources
-- `update_dsa_relationships.py` - Script to update relationships between DSA topics
-- `visualize_dsa_graph.py` - Script to visualize the knowledge graph
+This project consists of two main components:
+
+1. **Python Scraper**: Collects data about DSA topics from various educational resources.
+2. **TypeScript Frontend**: Visualizes the DSA knowledge graph in an interactive web application.
 
 ## Features
 
-- Scrapes DSA topics from GeeksForGeeks, LeetCode, W3Schools, NPTEL, YouTube, Coursera, Stack Overflow, Medium, and Dev.to
-- Extracts resources (videos, articles, courses, forum posts) for each topic
-- Organizes topics into a hierarchical knowledge graph with relationships
-- Visualizes the graph to show connections between topics
+- Scrapes information from multiple sources:
+  - GeeksForGeeks
+  - LeetCode
+  - NPTEL
+  - W3Schools
+  - YouTube
+- Processes and organizes data into a knowledge graph
+- Interactive visualization with filtering and search
+- Detailed view of topics and subtopics
+- Resource links to educational videos and articles
+
+## Project Structure
+
+```
+dsa-scraper/
+├── python-scraper/        # Python backend for data collection
+│   ├── cli.py             # Command-line interface
+│   ├── main.py            # Main orchestration module
+│   ├── requirements.txt   # Python dependencies
+│   ├── scrapers/          # Web scraping modules
+│   └── utils/             # Utility modules
+├── typescript-frontend/   # TypeScript/React frontend
+│   ├── src/               # Source code
+│   ├── public/            # Static assets
+│   └── package.json       # Node.js dependencies
+└── run.py                 # Script to run both components
+```
+
+## Installation
+
+### Prerequisites
+
+- Python 3.7+
+- Node.js 16+
+- npm 8+
+
+### Setup
+
+1. Clone the repository:
+   ```
+   git clone https://github.com/yourusername/dsa-scraper.git
+   cd dsa-scraper
+   ```
+
+2. Install Python dependencies:
+   ```
+   cd python-scraper
+   pip install -r requirements.txt
+   cd ..
+   ```
+
+3. Install Node.js dependencies:
+   ```
+   cd typescript-frontend
+   npm install
+   cd ..
+   ```
 
 ## Usage
 
-1. Run the scraper to collect information:
-   ```
-   cd dsa-scraper
-   python main.py
-   ```
+### Running the Entire System
 
-2. Update relationships between topics:
-   ```
-   python update_dsa_relationships.py
-   ```
+Use the provided script to run both the scraper and frontend:
 
-3. Visualize the knowledge graph:
-   ```
-   python visualize_dsa_graph.py
-   ```
+```bash
+python run.py [--topics TOPIC1 TOPIC2 ...] [--scrape-only] [--frontend-only] [--verbose]
+```
 
-## Integration
+Options:
+- `--topics`: Specific DSA topics to scrape (default: all topics)
+- `--scrape-only`: Only run the scraper without starting the frontend
+- `--frontend-only`: Only run the frontend without running the scraper
+- `--verbose`: Enable verbose logging
 
-This module is designed to be integrated into the queryHandling system to provide comprehensive DSA knowledge for question answering and semantic analysis.
+### Running Components Separately
+
+#### Python Scraper
+
+```bash
+cd python-scraper
+python cli.py [--topics TOPIC1 TOPIC2 ...] [--output OUTPUT_FILE] [--verbose]
+```
+
+#### TypeScript Frontend
+
+```bash
+cd typescript-frontend
+npm run dev
+```
+
+## Data Format
+
+The knowledge graph is represented as a JSON structure:
+
+```json
+{
+  "concepts": [
+    {
+      "id": "t1",
+      "name": "Array",
+      "type": "topic",
+      "level": "beginner",
+      "description": "An array is a linear data structure...",
+      "keywords": ["array", "linear data structure", ...],
+      "prerequisites": [],
+      "topic_suggestions": ["t2", "t3"],
+      "resources": {
+        "videos": [...],
+        "articles": [...]
+      },
+      "subconcepts": [...]
+    }
+  ]
+}
+```
+
+## License
+
+[MIT License](LICENSE)
+
+## Acknowledgements
+
+- Data sources: GeeksForGeeks, LeetCode, NPTEL, W3Schools, YouTube
+- Visualization libraries: D3.js, React Force Graph
